@@ -1,0 +1,66 @@
+2015-06-02 08:22:18	-->	govardhan (~dasadasa_@5.187.79.16) has joined #gentoo-unregistered
+2015-06-02 08:22:18	--	Topic for #gentoo-unregistered is "Join throttling/filter channel for #gentoo. Please make sure your nick is currently identified to services, then rejoin. | /msg nickserv register <yournickpassword> then /msg nickserv identify <password> | http://freenode.net/faq.shtml#nicksetup | For assistance, join #freenode |"
+2015-06-02 08:22:18	--	Topic set by Fieldy (xD0NjOjJH5@gentoo/contributor/Fieldy) on Вс, 21 мар 2010 21:43:40
+2015-06-02 08:22:18	--	Channel #gentoo-unregistered: 137 nicks (8 ops, 2 voices, 127 normals)
+2015-06-02 08:22:18	--	PvNotice(ChanServ): Join throttling/filter channel for #gentoo. Please make sure your nick is currently identified to services, then part and rejoin. For further information, check with avenj || "/msg nickserv register <yournickpassword>" then "/msg nickserv identify <yournickpassword>" || More info: http://tinyurl.com/8p8ju
+2015-06-02 08:22:22	--	Channel created on Вс, 26 ноя 2006 09:43:16
+2015-06-02 08:22:49	-->	ttilley (~ttilley@c-73-4-191-250.hsd1.ct.comcast.net) has joined #gentoo-unregistered
+2015-06-02 08:25:39	<--	N8Fear (~n8fear@p54A04BE8.dip0.t-ipconnect.de) has quit (Ping timeout: 245 seconds)
+2015-06-02 08:26:09	-->	Xib (~cryo@176.214.233.9) has joined #gentoo-unregistered
+2015-06-02 08:27:34	--	Xib is now known as Cryoniq
+2015-06-02 08:30:00	<--	dequeued (~dequeued@pool-98-116-46-15.nycmny.fios.verizon.net) has quit (Quit: Leaving)
+2015-06-02 08:30:34	-->	superusr (~usr@cm56-159-73.liwest.at) has joined #gentoo-unregistered
+2015-06-02 08:34:09	-->	madez (~madez@179.212.123.131) has joined #gentoo-unregistered
+2015-06-02 08:34:32	<--	madez (~madez@179.212.123.131) has quit (Read error: Connection reset by peer)
+2015-06-02 08:35:00	<--	echo-area (~user@182.92.253.23) has quit (Ping timeout: 265 seconds)
+2015-06-02 08:36:27	-->	tinitussi2 (~tinitus@p2003005F65477500922B34FFFEA4356C.dip0.t-ipconnect.de) has joined #gentoo-unregistered
+2015-06-02 08:39:06	-->	Olipro_ (~Olipro@2606:6000:6987:c800::1) has joined #gentoo-unregistered
+2015-06-02 08:39:20	--	Olipro_ is now known as Guest60251
+2015-06-02 08:39:38	-->	uncle_ben (~thx1138@207-181-242-119.c3-0.lem-ubr1.chi-lem.il.cable.rcn.com) has joined #gentoo-unregistered
+2015-06-02 08:41:13	<--	tinitussi2 (~tinitus@p2003005F65477500922B34FFFEA4356C.dip0.t-ipconnect.de) has quit (Ping timeout: 265 seconds)
+2015-06-02 08:42:29	-->	b-man1 (~aaron@KD106129132217.au-net.ne.jp) has joined #gentoo-unregistered
+2015-06-02 08:42:46	<--	DrakkenWarr (~meh@cpe-70-117-18-54.satx.res.rr.com) has quit (Quit: Leaving)
+2015-06-02 08:42:53	<--	b-man1 (~aaron@KD106129132217.au-net.ne.jp) has quit (Client Quit)
+2015-06-02 08:46:29	<--	b-man (~aaron@gentoo/developer/b-man) has quit (Ping timeout: 256 seconds)
+2015-06-02 08:46:37	-->	murcoss (~adi@p5B353103.dip0.t-ipconnect.de) has joined #gentoo-unregistered
+2015-06-02 08:48:42	<--	ttilley (~ttilley@c-73-4-191-250.hsd1.ct.comcast.net) has quit (Changing host)
+2015-06-02 08:48:42	-->	ttilley (~ttilley@unaffiliated/lv) has joined #gentoo-unregistered
+2015-06-02 08:48:59	<--	ttilley (~ttilley@unaffiliated/lv) has left #gentoo-unregistered
+2015-06-02 08:50:23	-->	mantono (~mantono@h252n4-hy-d6.ias.bredband.telia.com) has joined #gentoo-unregistered
+2015-06-02 08:50:53	<--	greenbagels_ (~gb@cpe-65-25-124-183.neo.res.rr.com) has quit (Ping timeout: 265 seconds)
+2015-06-02 08:51:07	<--	Agent_Smith_BR (~Agent_Smi@unaffiliated/agent-smith-br/x-9903544) has quit (Read error: No route to host)
+2015-06-02 08:52:58	-->	zack256 (~zack@c-98-251-136-237.hsd1.tn.comcast.net) has joined #gentoo-unregistered
+2015-06-02 08:53:48	-->	FrozenPigs (~FrozenPig@unaffiliated/frozenpigs) has joined #gentoo-unregistered
+2015-06-02 08:54:12	-->	lefou (~lefou@p5B034099.dip0.t-ipconnect.de) has joined #gentoo-unregistered
+2015-06-02 08:54:14	-->	ancientcc (~ancientcc@183.131.105.166) has joined #gentoo-unregistered
+2015-06-02 08:54:55	<--	zack256 (~zack@c-98-251-136-237.hsd1.tn.comcast.net) has left #gentoo-unregistered
+2015-06-02 08:55:43	-->	Agent_Smith_BR (~Agent_Smi@unaffiliated/agent-smith-br/x-9903544) has joined #gentoo-unregistered
+2015-06-02 08:56:47	<--	ancientcc (~ancientcc@183.131.105.166) has quit (Client Quit)
+2015-06-02 08:58:02	-->	zack256 (~zack@c-98-251-136-237.hsd1.tn.comcast.net) has joined #gentoo-unregistered
+2015-06-02 08:58:15	<--	zack256 (~zack@c-98-251-136-237.hsd1.tn.comcast.net) has left #gentoo-unregistered
+2015-06-02 08:58:49	-->	ancientcc (~ancientcc@183.131.105.166) has joined #gentoo-unregistered
+2015-06-02 09:05:18	-->	cristionet (~cristi@79.114.127.133) has joined #gentoo-unregistered
+2015-06-02 09:05:28	<--	ancientcc (~ancientcc@183.131.105.166) has quit (Remote host closed the connection)
+2015-06-02 09:05:57	-->	ancientcc (~ancientcc@61.164.211.210) has joined #gentoo-unregistered
+2015-06-02 09:07:43	<--	ancientcc (~ancientcc@61.164.211.210) has quit (Client Quit)
+2015-06-02 09:07:45	<--	slicktux (~slicktux@unaffiliated/slicktux) has quit (Quit: g'night all!)
+2015-06-02 09:07:58	-->	Bloodclaw (~bloodclaw@vpn.h38.org) has joined #gentoo-unregistered
+2015-06-02 09:08:15	<--	Bloodclaw (~bloodclaw@vpn.h38.org) has left #gentoo-unregistered
+2015-06-02 09:08:56	-->	ctibor (~quassel@2002:4d30:e53d::1) has joined #gentoo-unregistered
+2015-06-02 09:11:07	-->	x91 (~x91@78.163.58.137) has joined #gentoo-unregistered
+2015-06-02 09:11:22	-->	paval (~gpaval@178.121.197.122) has joined #gentoo-unregistered
+2015-06-02 09:14:37	<--	cristionet (~cristi@79.114.127.133) has quit (Ping timeout: 250 seconds)
+2015-06-02 09:16:29	<--	mmalter (~michael@ivr94-15-78-216-196-47.fbx.proxad.net) has quit (Ping timeout: 245 seconds)
+2015-06-02 09:17:43	-->	kdc (~kdc@dsl-165-145-132-29.telkomadsl.co.za) has joined #gentoo-unregistered
+2015-06-02 09:21:05	-->	echo-area (~user@182.92.253.23) has joined #gentoo-unregistered
+2015-06-02 09:22:13	-->	ancientcc (~ancientcc@183.131.105.166) has joined #gentoo-unregistered
+2015-06-02 09:22:51	<--	ancientcc (~ancientcc@183.131.105.166) has quit (Client Quit)
+2015-06-02 09:26:08	-->	fefelix (~fefe@80.87.117.74) has joined #gentoo-unregistered
+2015-06-02 09:26:26	-->	aleric (~aleric@195.170.189.251) has joined #gentoo-unregistered
+2015-06-02 09:26:52	<--	aleric (~aleric@195.170.189.251) has left #gentoo-unregistered
+2015-06-02 09:27:24	-->	mmalter (~michael@ivr94-15-78-216-196-47.fbx.proxad.net) has joined #gentoo-unregistered
+2015-06-02 09:30:47	<--	earendil (~morthrane@173-164-146-178-SFBA.hfc.comcastbusiness.net) has left #gentoo-unregistered
+2015-06-02 09:31:50	<--	fefelix (~fefe@80.87.117.74) has left #gentoo-unregistered
+2015-06-02 09:37:12	--	eseifert_ is now known as eseifert
+2015-06-02 09:39:08	-->	N8Fear (~n8fear@zb3e1.pia.fu-berlin.de) has joined #gentoo-unregistered
+2015-06-02 09:41:37	--	irc: disconnected from server

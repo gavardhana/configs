@@ -1,0 +1,484 @@
+2015-11-27 11:56:41	-->	govardhan (~dasadasa_@5.187.79.60) has joined #adom
+2015-11-27 11:56:42	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-11-27 11:56:42	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-11-27 11:56:42	--	Channel #adom: 23 nicks (0 ops, 1 voice, 22 normals)
+2015-11-27 11:56:43	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-11-27 12:02:26	<--	inire (~inire@cpe-66-66-67-194.rochester.res.rr.com) has quit (*.net *.split)
+2015-11-27 12:02:26	<--	AOLS (dracula@ancardia.us.to) has quit (*.net *.split)
+2015-11-27 12:02:26	<--	AdomDBbot (adomown@ancardia.us.to) has quit (*.net *.split)
+2015-11-27 12:02:27	<--	kawaider_ (~kawaider@185.68.153.4) has quit (*.net *.split)
+2015-11-27 12:02:28	<--	bfhd (~ben@188.166.234.141) has quit (*.net *.split)
+2015-11-27 12:02:30	<--	JoshuaMadoc (~JoshMad@120.88.174.59) has quit (*.net *.split)
+2015-11-27 12:02:31	<--	Voltara (~askalski@pool-68-133-31-149.bflony.fios.verizon.net) has quit (*.net *.split)
+2015-11-27 12:02:31	<--	bd- (~lnpc@94.76.208.168) has quit (*.net *.split)
+2015-11-27 12:02:33	<--	anon90270 (~1@ppp91-76-163-205.pppoe.mtu-net.ru) has quit (*.net *.split)
+2015-11-27 12:02:34	<--	ContraDuck (~mavery@123-243-67-114.static.tpgi.com.au) has quit (*.net *.split)
+2015-11-27 12:02:34	<--	epictetus (pattm@greatestate.com) has quit (*.net *.split)
+2015-11-27 12:02:35	<--	Heikki- (heikki@huhtanen.org) has quit (*.net *.split)
+2015-11-27 12:02:36	<--	kennae (kennae@psykedelia.org) has quit (*.net *.split)
+2015-11-27 12:02:36	<--	namad8 (aaaaa@pool-108-17-112-179.pitbpa.fios.verizon.net) has quit (*.net *.split)
+2015-11-27 12:02:37	<--	Jouni (maki24@amadeus.cc.tut.fi) has quit (*.net *.split)
+2015-11-27 12:02:38	<--	niska (~niska@2607:5300:100:200::160d) has quit (*.net *.split)
+2015-11-27 12:02:39	<--	Guest20726 (~nw@kapsi.fi) has quit (*.net *.split)
+2015-11-27 12:02:41	<--	Karrde (~alucard@karrde.kiserai.net) has quit (*.net *.split)
+2015-11-27 12:02:41	<--	jmr_ (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has quit (*.net *.split)
+2015-11-27 12:02:41	<--	Darothane (Daro@gateway/shell/bnc4free/x-asyqwxdedufrzcck) has quit (*.net *.split)
+2015-11-27 12:02:42	<--	emilus (5ee611c2@gateway/web/freenode/ip.94.230.17.194) has quit (*.net *.split)
+2015-11-27 12:13:15	-->	emilus (5ee611c2@gateway/web/freenode/ip.94.230.17.194) has joined #adom
+2015-11-27 12:13:15	-->	bfhd (~ben@188.166.234.141) has joined #adom
+2015-11-27 12:13:15	-->	kawaider_ (~kawaider@185.68.153.4) has joined #adom
+2015-11-27 12:13:15	-->	AdomDBbot (adomown@ancardia.us.to) has joined #adom
+2015-11-27 12:13:15	-->	AOLS (dracula@ancardia.us.to) has joined #adom
+2015-11-27 12:13:15	-->	inire (~inire@cpe-66-66-67-194.rochester.res.rr.com) has joined #adom
+2015-11-27 12:13:15	-->	bd- (~lnpc@94.76.208.168) has joined #adom
+2015-11-27 12:13:15	-->	Voltara (~askalski@pool-68-133-31-149.bflony.fios.verizon.net) has joined #adom
+2015-11-27 12:13:15	-->	JoshuaMadoc (~JoshMad@120.88.174.59) has joined #adom
+2015-11-27 12:13:15	-->	epictetus (pattm@greatestate.com) has joined #adom
+2015-11-27 12:13:15	-->	ContraDuck (~mavery@123-243-67-114.static.tpgi.com.au) has joined #adom
+2015-11-27 12:13:15	-->	anon90270 (~1@ppp91-76-163-205.pppoe.mtu-net.ru) has joined #adom
+2015-11-27 12:13:15	-->	Heikki- (heikki@huhtanen.org) has joined #adom
+2015-11-27 12:13:15	-->	Guest20726 (~nw@kapsi.fi) has joined #adom
+2015-11-27 12:13:15	-->	kennae (kennae@psykedelia.org) has joined #adom
+2015-11-27 12:13:15	-->	niska (~niska@2607:5300:100:200::160d) has joined #adom
+2015-11-27 12:13:15	-->	namad8 (aaaaa@pool-108-17-112-179.pitbpa.fios.verizon.net) has joined #adom
+2015-11-27 12:13:15	-->	Karrde (~alucard@karrde.kiserai.net) has joined #adom
+2015-11-27 12:13:15	-->	jmr_ (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has joined #adom
+2015-11-27 12:13:15	-->	Jouni (maki24@amadeus.cc.tut.fi) has joined #adom
+2015-11-27 12:13:15	-->	Darothane (Daro@gateway/shell/bnc4free/x-asyqwxdedufrzcck) has joined #adom
+2015-11-27 12:13:15	--	Mode #adom [+v AdomDBbot] by adams.freenode.net
+2015-11-27 12:13:33	-->	ChasesP (~Chase@47-32-142-53.dhcp.snlo.ca.charter.com) has joined #adom
+2015-11-27 12:14:22	<--	Moult (~Moult@static.88-198-98-200.clients.your-server.de) has quit (Changing host)
+2015-11-27 12:14:22	-->	Moult (~Moult@gentoo/developer/moult) has joined #adom
+2015-11-27 12:14:29	-->	Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) has joined #adom
+2015-11-27 12:14:30	--	Mode #adom [+v Alucard] by ChanServ
+2015-11-27 12:26:06	<--	ChasesP (~Chase@47-32-142-53.dhcp.snlo.ca.charter.com) has quit (Ping timeout: 240 seconds)
+2015-11-27 12:26:46	<--	Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) has quit (Ping timeout: 240 seconds)
+2015-11-27 12:33:07	<--	inire (~inire@cpe-66-66-67-194.rochester.res.rr.com) has quit (*.net *.split)
+2015-11-27 12:33:07	<--	AOLS (dracula@ancardia.us.to) has quit (*.net *.split)
+2015-11-27 12:33:07	<--	AdomDBbot (adomown@ancardia.us.to) has quit (*.net *.split)
+2015-11-27 12:33:07	<--	kawaider_ (~kawaider@185.68.153.4) has quit (*.net *.split)
+2015-11-27 12:33:09	<--	bfhd (~ben@188.166.234.141) has quit (*.net *.split)
+2015-11-27 12:33:11	<--	JoshuaMadoc (~JoshMad@120.88.174.59) has quit (*.net *.split)
+2015-11-27 12:33:11	<--	Voltara (~askalski@pool-68-133-31-149.bflony.fios.verizon.net) has quit (*.net *.split)
+2015-11-27 12:33:12	<--	bd- (~lnpc@94.76.208.168) has quit (*.net *.split)
+2015-11-27 12:33:14	<--	anon90270 (~1@ppp91-76-163-205.pppoe.mtu-net.ru) has quit (*.net *.split)
+2015-11-27 12:33:14	<--	ContraDuck (~mavery@123-243-67-114.static.tpgi.com.au) has quit (*.net *.split)
+2015-11-27 12:33:15	<--	epictetus (pattm@greatestate.com) has quit (*.net *.split)
+2015-11-27 12:33:16	<--	Heikki- (heikki@huhtanen.org) has quit (*.net *.split)
+2015-11-27 12:33:17	<--	kennae (kennae@psykedelia.org) has quit (*.net *.split)
+2015-11-27 12:33:17	<--	namad8 (aaaaa@pool-108-17-112-179.pitbpa.fios.verizon.net) has quit (*.net *.split)
+2015-11-27 12:33:18	<--	Jouni (maki24@amadeus.cc.tut.fi) has quit (*.net *.split)
+2015-11-27 12:33:19	<--	niska (~niska@2607:5300:100:200::160d) has quit (*.net *.split)
+2015-11-27 12:33:20	<--	Guest20726 (~nw@kapsi.fi) has quit (*.net *.split)
+2015-11-27 12:33:21	<--	Karrde (~alucard@karrde.kiserai.net) has quit (*.net *.split)
+2015-11-27 12:33:22	<--	jmr_ (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has quit (*.net *.split)
+2015-11-27 12:33:22	<--	Darothane (Daro@gateway/shell/bnc4free/x-asyqwxdedufrzcck) has quit (*.net *.split)
+2015-11-27 12:33:22	<--	emilus (5ee611c2@gateway/web/freenode/ip.94.230.17.194) has quit (*.net *.split)
+2015-11-27 12:34:48	-->	Alucard_ (alucard@c-73-253-111-128.hsd1.ma.comcast.net) has joined #adom
+2015-11-27 12:34:48	-->	Drucian (~Chase@47-32-142-53.dhcp.snlo.ca.charter.com) has joined #adom
+2015-11-27 12:34:48	-->	emilus (5ee611c2@gateway/web/freenode/ip.94.230.17.194) has joined #adom
+2015-11-27 12:34:48	-->	bfhd (~ben@188.166.234.141) has joined #adom
+2015-11-27 12:34:48	-->	kawaider_ (~kawaider@185.68.153.4) has joined #adom
+2015-11-27 12:34:48	-->	AdomDBbot (adomown@ancardia.us.to) has joined #adom
+2015-11-27 12:34:48	-->	AOLS (dracula@ancardia.us.to) has joined #adom
+2015-11-27 12:34:48	-->	inire (~inire@cpe-66-66-67-194.rochester.res.rr.com) has joined #adom
+2015-11-27 12:34:48	-->	bd- (~lnpc@94.76.208.168) has joined #adom
+2015-11-27 12:34:48	-->	Voltara (~askalski@pool-68-133-31-149.bflony.fios.verizon.net) has joined #adom
+2015-11-27 12:34:48	-->	JoshuaMadoc (~JoshMad@120.88.174.59) has joined #adom
+2015-11-27 12:34:48	-->	epictetus (pattm@greatestate.com) has joined #adom
+2015-11-27 12:34:48	-->	ContraDuck (~mavery@123-243-67-114.static.tpgi.com.au) has joined #adom
+2015-11-27 12:34:48	-->	anon90270 (~1@ppp91-76-163-205.pppoe.mtu-net.ru) has joined #adom
+2015-11-27 12:34:48	-->	Heikki- (heikki@huhtanen.org) has joined #adom
+2015-11-27 12:34:48	-->	Darothane (Daro@gateway/shell/bnc4free/x-asyqwxdedufrzcck) has joined #adom
+2015-11-27 12:34:48	-->	Jouni (maki24@amadeus.cc.tut.fi) has joined #adom
+2015-11-27 12:34:48	-->	jmr_ (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has joined #adom
+2015-11-27 12:34:48	-->	Karrde (~alucard@karrde.kiserai.net) has joined #adom
+2015-11-27 12:34:48	-->	namad8 (aaaaa@pool-108-17-112-179.pitbpa.fios.verizon.net) has joined #adom
+2015-11-27 12:34:48	-->	niska (~niska@2607:5300:100:200::160d) has joined #adom
+2015-11-27 12:34:48	-->	kennae (kennae@psykedelia.org) has joined #adom
+2015-11-27 12:34:48	-->	Guest20726 (~nw@kapsi.fi) has joined #adom
+2015-11-27 12:34:48	--	Mode #adom [+v AdomDBbot] by adams.freenode.net
+2015-11-27 12:43:24	-->	ContraDork (~ContraDor@203.39.240.94) has joined #adom
+2015-11-27 12:55:46	<--	ContraDork (~ContraDor@203.39.240.94) has quit (Ping timeout: 240 seconds)
+2015-11-27 13:10:26	-->	ContraDork (~ContraDor@203.39.240.94) has joined #adom
+2015-11-27 13:12:58	--	irc: disconnected from server
+2015-11-28 09:42:11	-->	govardhan (~dasadasa_@5.187.79.49) has joined #adom
+2015-11-28 09:42:11	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-11-28 09:42:11	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-11-28 09:42:11	--	Channel #adom: 24 nicks (0 ops, 1 voice, 23 normals)
+2015-11-28 09:42:15	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-11-28 11:42:54	--	irc: disconnected from server
+2015-11-28 21:23:16	-->	govardhan (~dasadasa_@5.187.79.5) has joined #adom
+2015-11-28 21:23:16	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-11-28 21:23:16	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-11-28 21:23:16	--	Channel #adom: 27 nicks (0 ops, 1 voice, 26 normals)
+2015-11-28 21:23:20	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-11-28 23:28:31	--	irc: disconnected from server
+2015-12-01 16:37:25	-->	govardhan (~dasadasa_@5.187.79.16) has joined #adom
+2015-12-01 16:37:25	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-01 16:37:25	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-01 16:37:25	--	Channel #adom: 25 nicks (0 ops, 2 voices, 23 normals)
+2015-12-01 16:37:29	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-01 16:38:19	--	irc: disconnected from server
+2015-12-01 16:38:44	-->	govardhana (~dasadasa_@5.187.79.16) has joined #adom
+2015-12-01 16:38:44	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-01 16:38:44	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-01 16:38:44	--	Channel #adom: 26 nicks (0 ops, 2 voices, 24 normals)
+2015-12-01 16:38:48	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-01 16:41:49	<--	govardhan (~dasadasa_@5.187.79.16) has quit (Ping timeout: 245 seconds)
+2015-12-01 16:59:13	<--	bonho (~smuxi@192.162.143.185) has quit (Read error: Connection reset by peer)
+2015-12-01 17:04:00	<--	Pacra_ (~Pacra@c-73-165-39-38.hsd1.pa.comcast.net) has quit (Read error: Connection reset by peer)
+2015-12-01 17:04:14	-->	Pacra_ (~Pacra@c-73-165-39-38.hsd1.pa.comcast.net) has joined #adom
+2015-12-01 17:09:00	<--	wheals (~wheals@unaffiliated/wheals) has quit (Quit: Leaving)
+2015-12-01 19:04:08	<--	Pacra_ (~Pacra@c-73-165-39-38.hsd1.pa.comcast.net) has quit (Read error: Connection reset by peer)
+2015-12-01 19:04:25	-->	Pacra_ (~Pacra@c-73-165-39-38.hsd1.pa.comcast.net) has joined #adom
+2015-12-01 20:04:20	--	irc: disconnected from server
+2015-12-02 09:16:56	-->	govardhan (~dasadasa_@5.187.79.16) has joined #adom
+2015-12-02 09:16:56	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-02 09:16:56	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-02 09:16:56	--	Channel #adom: 22 nicks (0 ops, 2 voices, 20 normals)
+2015-12-02 09:17:00	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-02 09:52:48	-->	KevinO (~KevinO@pool-108-0-226-63.lsanca.fios.verizon.net) has joined #adom
+2015-12-02 10:39:17	--	irc: disconnected from server
+2015-12-03 20:42:21	-->	govardhan (~dasadasa_@5.187.79.86) has joined #adom
+2015-12-03 20:42:21	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-03 20:42:21	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-03 20:42:21	--	Channel #adom: 25 nicks (0 ops, 3 voices, 22 normals)
+2015-12-03 20:42:25	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-03 21:35:39	-->	wheals (~wheals@unaffiliated/wheals) has joined #adom
+2015-12-03 21:37:46	-->	wheals_ (~wheals@unaffiliated/wheals) has joined #adom
+2015-12-03 21:40:34	<--	wheals (~wheals@unaffiliated/wheals) has quit (Ping timeout: 245 seconds)
+2015-12-03 21:43:42	--	wheals_ is now known as wheals
+2015-12-03 22:18:47	--	irc: disconnected from server
+2015-12-04 09:07:32	-->	govardhan (~dasadasa_@5.187.79.56) has joined #adom
+2015-12-04 09:07:32	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-04 09:07:32	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-04 09:07:32	--	Channel #adom: 27 nicks (0 ops, 3 voices, 24 normals)
+2015-12-04 09:07:36	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-04 09:13:33	--	irc: disconnected from server
+2015-12-04 09:13:58	-->	govardhana (~dasadasa_@5.187.79.3) has joined #adom
+2015-12-04 09:13:58	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-04 09:13:58	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-04 09:13:58	--	Channel #adom: 28 nicks (0 ops, 3 voices, 25 normals)
+2015-12-04 09:14:03	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-04 09:14:43	<--	govardhan (~dasadasa_@5.187.79.56) has quit (Ping timeout: 246 seconds)
+2015-12-04 09:22:00	--	irc: disconnected from server
+2015-12-04 09:22:25	-->	govardhana (~dasadasa_@5.187.79.86) has joined #adom
+2015-12-04 09:22:25	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-04 09:22:25	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-04 09:22:25	--	Channel #adom: 27 nicks (0 ops, 3 voices, 24 normals)
+2015-12-04 09:22:29	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-04 09:23:28	<--	emilus (2e97ba4d@gateway/web/freenode/ip.46.151.186.77) has quit (Quit: Page closed)
+2015-12-04 09:33:31	--	irc: disconnected from server
+2015-12-04 09:33:53	-->	govardhana (~dasadasa_@5.187.79.87) has joined #adom
+2015-12-04 09:33:53	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-04 09:33:53	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-04 09:33:53	--	Channel #adom: 26 nicks (0 ops, 3 voices, 23 normals)
+2015-12-04 09:33:58	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-04 09:41:54	--	irc: disconnected from server
+2015-12-04 09:42:20	-->	gavardhan (~dasadasa_@5.187.79.74) has joined #adom
+2015-12-04 09:42:20	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-04 09:42:20	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-04 09:42:20	--	Channel #adom: 27 nicks (0 ops, 3 voices, 24 normals)
+2015-12-04 09:42:24	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-04 09:43:05	<--	govardhana (~dasadasa_@5.187.79.87) has quit (Ping timeout: 246 seconds)
+2015-12-04 09:48:27	--	irc: disconnected from server
+2015-12-07 13:05:36	-->	govardhan (~dasadasa_@5.187.79.78) has joined #adom
+2015-12-07 13:05:36	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-07 13:05:36	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-07 13:05:36	--	Channel #adom: 29 nicks (0 ops, 3 voices, 26 normals)
+2015-12-07 13:05:40	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-07 13:06:24	<--	shockeroo (shockeroo@pool-108-0-226-63.lsanca.fios.verizon.net) has quit (Ping timeout: 245 seconds)
+2015-12-07 13:43:20	--	irc: disconnected from server
+2015-12-10 02:37:52	-->	govardhan (~dasadasa_@5.187.79.78) has joined #adom
+2015-12-10 02:37:52	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-10 02:37:52	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-10 02:37:52	--	Channel #adom: 28 nicks (0 ops, 3 voices, 25 normals)
+2015-12-10 02:37:56	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-10 03:06:36	<--	Blasph (~kvirc@charil.static.korbank.pl) has quit (Quit: KVIrc 4.0.2 Insomnia http://www.kvirc.net/)
+2015-12-10 03:29:07	-->	zphds (~zphds@186-104-210-119.baf.movistar.cl) has joined #adom
+2015-12-10 03:29:07	<--	zphds (~zphds@186-104-210-119.baf.movistar.cl) has quit (Changing host)
+2015-12-10 03:29:07	-->	zphds (~zphds@unaffiliated/sudharsh) has joined #adom
+2015-12-10 03:29:07	zphds	guys, am at a dungeon level with seemingly no tunnels for going forward.
+2015-12-10 03:29:07	zphds	Is in the first cave after you start
+2015-12-10 03:29:07	zphds	is just a staircase and a small tunnel with a deadend
+2015-12-10 03:29:07	DasSteppenwolf	'S'earch for secret doors.
+2015-12-10 03:29:07	DasSteppenwolf	And it's going to be in the dead end.
+2015-12-10 03:29:07	zphds	cool
+2015-12-10 03:29:07	zphds	@DasSteppenwolf hit 'S' standing next to all the tiles on the sides
+2015-12-10 03:29:07	zphds	no dice
+2015-12-10 03:33:20	DasSteppenwolf	Try more times.
+2015-12-10 03:33:26	DasSteppenwolf	Also, w s to search several times.
+2015-12-10 03:33:26	jabin	sometimes takes multiple searching, especially if low stats
+2015-12-10 03:47:17	--	irc: disconnected from server
+2015-12-10 11:40:57	-->	govardhan (~dasadasa_@5.187.79.78) has joined #adom
+2015-12-10 11:40:57	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-10 11:40:57	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-10 11:40:57	--	Channel #adom: 23 nicks (0 ops, 3 voices, 20 normals)
+2015-12-10 11:41:01	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-10 12:28:23	<--	jmr_ (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has quit (Ping timeout: 246 seconds)
+2015-12-10 12:54:47	-->	jmr (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has joined #adom
+2015-12-10 13:02:21	<--	JoshuaMadoc (~JoshMad@120.88.174.59) has quit (Ping timeout: 250 seconds)
+2015-12-10 13:07:03	-->	JoshuaMadoc (~JoshMad@120.88.174.59) has joined #adom
+2015-12-10 13:17:44	-->	jmr_ (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has joined #adom
+2015-12-10 13:21:00	<--	jmr (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has quit (Ping timeout: 256 seconds)
+2015-12-10 13:32:42	--	irc: disconnected from server
+2015-12-11 01:28:56	-->	govardhan (~dasadasa_@5.187.79.78) has joined #adom
+2015-12-11 01:28:57	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-11 01:28:57	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-11 01:28:57	--	Channel #adom: 27 nicks (0 ops, 3 voices, 24 normals)
+2015-12-11 01:29:00	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-11 01:47:21	-->	wheals_ (~wheals@unaffiliated/wheals) has joined #adom
+2015-12-11 01:50:05	<--	wheals (~wheals@unaffiliated/wheals) has quit (Ping timeout: 240 seconds)
+2015-12-11 01:55:06	--	wheals_ is now known as wheals
+2015-12-11 02:21:33	ChaseSP	drinking eggnog then playing adom
+2015-12-11 02:21:36	ChaseSP	what could possibly go wrong
+2015-12-11 02:24:25	<--	ignacio____ (~h0h0h0@c-24-5-28-159.hsd1.ca.comcast.net) has quit (Ping timeout: 240 seconds)
+2015-12-11 02:26:41	epictetus	alcoholic eggnog?
+2015-12-11 02:26:42	epictetus	hehe
+2015-12-11 02:26:45	epictetus	or just straight
+2015-12-11 02:27:13	ChaseSP	the former
+2015-12-11 02:28:09	epictetus	what kind of booze
+2015-12-11 02:28:12	epictetus	traditional rum?
+2015-12-11 02:28:21	epictetus	i like a little kahlua in there
+2015-12-11 02:29:03	ChaseSP	rum, whiskey, bourbon 
+2015-12-11 02:29:07	ChaseSP	a friend of my mother's brought it over
+2015-12-11 02:30:06	<--	wheals (~wheals@unaffiliated/wheals) has quit (Ping timeout: 272 seconds)
+2015-12-11 02:44:39	--	irc: disconnected from server
+2015-12-12 01:33:08	-->	govardhan (~dasadasa_@5.187.79.78) has joined #adom
+2015-12-12 01:33:08	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-12 01:33:08	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-12 01:33:08	--	Channel #adom: 29 nicks (0 ops, 3 voices, 26 normals)
+2015-12-12 01:33:12	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-12 01:56:20	<--	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has quit (Remote host closed the connection)
+2015-12-12 01:57:16	-->	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has joined #adom
+2015-12-12 02:01:56	<--	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has quit (Ping timeout: 256 seconds)
+2015-12-12 02:19:47	ignacio____	what determines the chance of catching a returning missile?
+2015-12-12 02:23:20	ignacio____	@i true aim
+2015-12-12 02:23:21	+AdomDBbot	[120] silvery arrow "True Aim" (/) (Me:+0,1d3+0) (Ms:+10,15d5+0) returns (2s) [missile] (iron) (Art) DL20(25) #312
+2015-12-12 02:26:32	--	irc: disconnected from server
+2015-12-12 11:13:52	-->	govardhan (~dasadasa_@5.187.79.78) has joined #adom
+2015-12-12 11:13:52	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-12 11:13:52	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-12 11:13:52	--	Channel #adom: 24 nicks (0 ops, 3 voices, 21 normals)
+2015-12-12 11:13:56	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-12 11:51:53	-->	ignacio____ (~h0h0h0@c-50-184-201-38.hsd1.ca.comcast.net) has joined #adom
+2015-12-12 11:56:46	<--	ignacio____ (~h0h0h0@c-50-184-201-38.hsd1.ca.comcast.net) has quit (Ping timeout: 240 seconds)
+2015-12-12 12:26:09	--	irc: disconnected from server
+2015-12-16 21:12:43	-->	govardhan (~dasadasa_@5.187.79.109) has joined #adom
+2015-12-16 21:12:43	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-16 21:12:43	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-16 21:12:43	--	Channel #adom: 31 nicks (0 ops, 3 voices, 28 normals)
+2015-12-16 21:12:47	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-16 21:37:09	-->	Enihi (~yos@46.120.9.10) has joined #adom
+2015-12-16 21:37:17	-->	framling (~user@104.200.154.63) has joined #adom
+2015-12-16 22:02:37	--	irc: disconnected from server
+2015-12-17 22:04:56	-->	govardhan (~dasadasa_@5.187.79.41) has joined #adom
+2015-12-17 22:04:56	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-17 22:04:56	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-17 22:04:56	--	Channel #adom: 31 nicks (0 ops, 3 voices, 28 normals)
+2015-12-17 22:05:01	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-17 22:14:04	+Fistanarius	gnilosz has just entered D:50! 
+2015-12-17 22:18:27	<--	wheals (~wheals@unaffiliated/wheals) has quit (Quit: Leaving)
+2015-12-17 22:44:25	+Fistanarius	New high score: Sane (gnilosz). L36 hurthling monk (M). 8816268 xps. 73710 turns. He saved the world with his brave efforts and became a great ruler while saving himself 30 times. Score 18275876. Version 1.2.0p21-23.
+2015-12-17 22:44:57	--	irc: disconnected from server
+2015-12-18 22:04:22	-->	govardhan (~dasadasa_@5.187.79.41) has joined #adom
+2015-12-18 22:04:22	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-18 22:04:22	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-18 22:04:22	--	Channel #adom: 31 nicks (0 ops, 3 voices, 28 normals)
+2015-12-18 22:04:27	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-18 22:13:16	wheals	@m stone ooze
+2015-12-18 22:13:16	+AdomDBbot	[120] Stone ooze (j): N, 100spd, 14-42/126 hp, 10dv, 0pv, 1x 9d8 [+0] (ignore PV), 120s, IMMUNE(mindcraft), VULN(jelly slaying), breeder, dl20(10), paralyzing counterattack, tracking(70%)
+2015-12-18 22:15:13	wheals	@m balor
+2015-12-18 22:15:14	+AdomDBbot	[120] Balor (&): C, 100spd, 490-570/810 hp, 50dv, 40pv, 2x 8d8+10 [+9] (corrupt 1d150), 480s, IMMUNE(death rays, fire, locked doors, traps), VULN(demon slaying, humanoid slaying), destroys webs instantly, dl45(10), intel(75%), sees in darkness and through invisibility, sr(65%), summons 1:20,
+2015-12-18 22:15:14	+AdomDBbot	..teleports, tracking(90%)
+2015-12-18 22:56:45	<--	wheals (~wheals@unaffiliated/wheals) has quit (Quit: Leaving)
+2015-12-18 23:34:38	--	irc: disconnected from server
+2015-12-20 08:17:55	-->	govardhan (~dasadasa_@5.187.79.41) has joined #adom
+2015-12-20 08:17:55	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-20 08:17:56	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-20 08:17:56	--	Channel #adom: 27 nicks (0 ops, 3 voices, 24 normals)
+2015-12-20 08:17:59	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-20 08:23:04	<--	Lawman0 (~Lawman@c-73-198-40-207.hsd1.nj.comcast.net) has quit (Ping timeout: 245 seconds)
+2015-12-20 08:41:51	-->	jabin (~apparentl@75-171-151-51.hlrn.qwest.net) has joined #adom
+2015-12-20 09:13:06	<--	ignacio____ (~h0h0h0@c-50-184-201-38.hsd1.ca.comcast.net) has quit (Ping timeout: 240 seconds)
+2015-12-20 09:13:45	Guest90885	are the archery talents worth it for a paladin? or should i go for quickness stuff instead
+2015-12-20 09:31:41	<--	jabin (~apparentl@75-171-151-51.hlrn.qwest.net) has quit
+2015-12-20 10:05:41	-->	ignacio____ (~h0h0h0@c-50-184-201-38.hsd1.ca.comcast.net) has joined #adom
+2015-12-20 10:08:55	-->	jmr (~jmr@208.104.166.238) has joined #adom
+2015-12-20 10:11:15	<--	jmr_ (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has quit (Ping timeout: 240 seconds)
+2015-12-20 10:18:46	-->	jabin (jabin@75-171-151-51.hlrn.qwest.net) has joined #adom
+2015-12-20 11:30:10	-->	Lawman0 (~Lawman@c-73-198-40-207.hsd1.nj.comcast.net) has joined #adom
+2015-12-20 11:34:44	<--	Lawman0 (~Lawman@c-73-198-40-207.hsd1.nj.comcast.net) has quit (Ping timeout: 245 seconds)
+2015-12-20 13:49:30	<--	jabin (jabin@75-171-151-51.hlrn.qwest.net) has quit
+2015-12-20 13:55:26	<--	ignacio____ (~h0h0h0@c-50-184-201-38.hsd1.ca.comcast.net) has quit (Ping timeout: 240 seconds)
+2015-12-20 15:21:03	-->	jabin (jabin@75-171-151-51.hlrn.qwest.net) has joined #adom
+2015-12-20 15:44:42	<--	Fistanarius (~Fistanari@ancardia.us.to) has quit (Ping timeout: 260 seconds)
+2015-12-20 15:55:36	-->	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has joined #adom
+2015-12-20 15:57:16	-->	Fistanarius (adomown@ancardia.us.to) has joined #adom
+2015-12-20 16:00:22	<--	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has quit (Ping timeout: 256 seconds)
+2015-12-20 16:54:36	-->	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has joined #adom
+2015-12-20 17:37:21	-->	Katze (~katze@104.234.248.30) has joined #adom
+2015-12-20 19:58:40	--	irc: disconnected from server
+2015-12-23 10:31:02	-->	govardhan (~dasadasa_@5.187.79.76) has joined #adom
+2015-12-23 10:31:02	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-23 10:31:02	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-23 10:31:02	--	Channel #adom: 24 nicks (0 ops, 3 voices, 21 normals)
+2015-12-23 10:31:06	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-23 10:55:51	--	irc: disconnected from server
+2015-12-23 10:57:59	-->	govardhan (~dasadasa_@5.187.79.76) has joined #adom
+2015-12-23 10:57:59	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-23 10:57:59	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-23 10:57:59	--	Channel #adom: 24 nicks (0 ops, 3 voices, 21 normals)
+2015-12-23 10:58:04	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-23 11:49:06	<--	ignacio____ (~h0h0h0@c-73-231-15-220.hsd1.ca.comcast.net) has quit (Ping timeout: 240 seconds)
+2015-12-23 13:18:23	-->	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has joined #adom
+2015-12-23 13:22:39	<--	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has quit (Ping timeout: 245 seconds)
+2015-12-23 15:06:23	-->	Katze (~katze@104.234.245.6) has joined #adom
+2015-12-23 15:19:53	-->	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has joined #adom
+2015-12-23 15:24:22	<--	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has quit (Ping timeout: 256 seconds)
+2015-12-23 16:46:35	-->	emilus (5ee611c2@gateway/web/freenode/ip.94.230.17.194) has joined #adom
+2015-12-23 17:31:01	-->	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has joined #adom
+2015-12-23 17:32:56	<--	emilus (5ee611c2@gateway/web/freenode/ip.94.230.17.194) has quit (Quit: Page closed)
+2015-12-23 17:33:16	<--	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has quit (Client Quit)
+2015-12-23 18:04:29	+Fistanarius	New high score: Reddit (agentgt). L11 trollish healer (F). 103528 xps. 22910 turns. She was killed by a ghul somewhere in a misty swamp. Score 28010. Version r59.
+2015-12-23 18:59:16	-->	AndChat|506 (~AndChat50@2600:1010:b052:1d59:14cd:2236:5ab2:1059) has joined #adom
+2015-12-23 19:29:30	--	irc: disconnected from server
+2015-12-24 22:02:46	-->	govardhan (~dasadasa_@5.187.79.76) has joined #adom
+2015-12-24 22:02:46	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-24 22:02:46	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-24 22:02:46	--	Channel #adom: 26 nicks (0 ops, 3 voices, 23 normals)
+2015-12-24 22:02:50	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-24 22:10:10	-->	jmr__ (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has joined #adom
+2015-12-24 22:11:33	--	irc: disconnected from server
+2015-12-26 13:30:07	-->	govardhan (~dasadasa_@5.187.79.76) has joined #adom
+2015-12-26 13:30:07	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-26 13:30:07	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-26 13:30:07	--	Channel #adom: 24 nicks (0 ops, 3 voices, 21 normals)
+2015-12-26 13:30:11	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-26 15:09:40	--	irc: disconnected from server
+2015-12-27 13:21:13	-->	govardhan (~dasadasa_@5.187.79.34) has joined #adom
+2015-12-27 13:21:13	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-27 13:21:13	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-27 13:21:13	--	Channel #adom: 23 nicks (0 ops, 2 voices, 21 normals)
+2015-12-27 13:21:17	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-27 16:07:20	<--	Karrde (alucard@karrde.kiserai.net) has quit (Ping timeout: 276 seconds)
+2015-12-27 17:06:52	-->	Karrde (alucard@karrde.kiserai.net) has joined #adom
+2015-12-27 17:06:53	--	Mode #adom [+v Karrde] by ChanServ
+2015-12-27 17:06:53	--	Mode #adom [-v Karrde] by ChanServ
+2015-12-27 17:11:24	<--	Karrde (alucard@karrde.kiserai.net) has quit (Ping timeout: 245 seconds)
+2015-12-27 17:26:54	-->	Lawman0 (~Lawman@c-69-141-60-146.hsd1.nj.comcast.net) has joined #adom
+2015-12-27 17:50:05	-->	Karrde (alucard@karrde.kiserai.net) has joined #adom
+2015-12-27 17:50:05	--	Mode #adom [+v Karrde] by ChanServ
+2015-12-27 17:50:05	--	Mode #adom [-v Karrde] by ChanServ
+2015-12-27 17:55:59	<--	bd- (~lnpc@94.76.208.168) has quit (Ping timeout: 245 seconds)
+2015-12-27 17:57:22	-->	bd- (~lnpc@94.76.208.168) has joined #adom
+2015-12-27 18:25:02	-->	Iridian_Jink (~jink@xdsl-89-0-127-76.netcologne.de) has joined #adom
+2015-12-27 18:25:11	--	Iridian_Jink is now known as Elfquest_Jink
+2015-12-27 19:30:51	Elfquest_Jink	aaah :D
+2015-12-27 19:30:56	Elfquest_Jink	identify all those potions!
+2015-12-27 20:27:14	<--	Lawman0 (~Lawman@c-69-141-60-146.hsd1.nj.comcast.net) has quit (Ping timeout: 245 seconds)
+2015-12-27 21:03:10	-->	Lawman0 (~Lawman@c-69-141-60-146.hsd1.nj.comcast.net) has joined #adom
+2015-12-27 22:05:52	Elfquest_Jink	wow.
+2015-12-27 22:05:57	Elfquest_Jink	SCroll of Cure Blindness?
+2015-12-27 22:06:04	Elfquest_Jink	Those must be really easy to read when blind
+2015-12-27 22:07:34	jmr__	typical explanation is that you dont really read scrolls, you break their seal and activate the runes by doing so
+2015-12-27 22:07:48	jmr__	this is why theyre insta-cast in most systems
+2015-12-27 22:17:02	--	irc: disconnected from server
+2015-12-29 11:37:04	-->	govardhan (~dasadasa_@5.187.79.83) has joined #adom
+2015-12-29 11:37:04	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-29 11:37:04	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-29 11:37:04	--	Channel #adom: 23 nicks (0 ops, 3 voices, 20 normals)
+2015-12-29 11:37:09	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-29 12:51:16	--	irc: disconnected from server
+2015-12-31 01:05:55	-->	govardhan (~dasadasa_@5.187.79.83) has joined #adom
+2015-12-31 01:05:55	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2015-12-31 01:05:55	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2015-12-31 01:05:55	--	Channel #adom: 28 nicks (0 ops, 3 voices, 25 normals)
+2015-12-31 01:06:00	--	Channel created on Ср, 04 фев 2009 19:26:36
+2015-12-31 01:06:09	Moult	keizuki: SMC? i'm forgetting my acronyms
+2015-12-31 01:06:19	keizuki	ah thought you meant D:6
+2015-12-31 01:06:25	keizuki	Small Cave
+2015-12-31 01:06:25	jabin	ye oop
+2015-12-31 01:06:37	keizuki	i like to know where the stairs are so i can TP later
+2015-12-31 01:09:17	keizuki	jabin: do you know if [q]uestions at the beginning influence potential too?
+2015-12-31 01:10:16	jabin	yeah those are online if you want to peek
+2015-12-31 01:10:30	jabin	oh potential hmm (ptobably, i think so)
+2015-12-31 01:10:34	jabin	prob
+2015-12-31 01:11:58	Moult	is there a way to access the HMV without going through the SMC and UD?
+2015-12-31 01:13:05	keizuki	once you have gone through SMC+UD, you can open a tunnel from HMV so you don't have to do that again
+2015-12-31 01:13:54	keizuki	unless you meant for the first time
+2015-12-31 01:13:56	keizuki	then nope :P
+2015-12-31 01:14:25	Moult	i wonder if it's worth for my PC to try :) lvl7
+2015-12-31 01:15:07	keizuki	well UD is not that hard TBH
+2015-12-31 01:15:13	keizuki	or at least it wasn't in 1.1.1
+2015-12-31 01:15:32	keizuki	in 1.2 I got killed there with my lev6 wiz by...
+2015-12-31 01:15:40	keizuki	you guessed it, vortex
+2015-12-31 01:16:18	Moult	"someone shouts yippieyaiyae" that's right, twyat, enjoy the SMC :D
+2015-12-31 01:17:18	Moult	cool, managed to rush through it, find the blanket, and now in UD1
+2015-12-31 01:19:55	keizuki	btw
+2015-12-31 01:19:57	keizuki	is it just me
+2015-12-31 01:20:03	keizuki	or is Yergius waaay less useful now?
+2015-12-31 01:23:06	Moult	if i come across a single herb bush, might as well pick it to the death, because it's going to die, right?
+2015-12-31 01:28:57	Chasesp	Yes 
+2015-12-31 01:28:59	Chasesp	Or two
+2015-12-31 01:30:09	Moult	Chasesp: cheers
+2015-12-31 01:34:08	asdfzzz	you could try to make two into three into square if its on a good spot
+2015-12-31 01:34:12	asdfzzz	with holy water
+2015-12-31 01:36:01	Moult	nah, still early game, no good items yet, nor holy water
+2015-12-31 01:37:26	keizuki	regarding holy water
+2015-12-31 01:37:42	keizuki	recently i tried to bless my identify scrolls
+2015-12-31 01:37:44	keizuki	like in 1.1.1
+2015-12-31 01:37:49	keizuki	i was in for a surprise :D
+2015-12-31 01:42:03	Moult	keizuki: what happened?
+2015-12-31 01:42:35	keizuki	dipped scrolls get their letters washed out by water now
+2015-12-31 01:43:29	Chasesp	Wow 
+2015-12-31 01:44:46	Jouni	that's how dipping scrolls into regular water (not holy nor unholy) has always worked
+2015-12-31 01:45:33	<--	agentgt (~agentgt@71.174.232.112) has quit (Remote host closed the connection)
+2015-12-31 01:51:17	Moult	keizuki: then how do you bless them?
+2015-12-31 01:51:27	Moult	also, a room full of fire vortices? gee
+2015-12-31 01:51:29	keizuki	i have no idea
+2015-12-31 01:54:18	keizuki	btw what's your autopickup string?
+2015-12-31 01:54:31	keizuki	mine is $'~!"?=\
+2015-12-31 01:56:55	-->	Katze_ (~katze@104.234.250.33) has joined #adom
+2015-12-31 01:57:05	<--	Katze_ (~katze@104.234.250.33) has quit (Client Quit)
+2015-12-31 01:58:39	Moult	keizuki: i don't do autopickup
+2015-12-31 01:58:55	keizuki	why? it's quite useful
+2015-12-31 02:00:04	Moult	keizuki: dunno
+2015-12-31 02:00:32	Moult	what's the rules of thumb on how to identify items? should i just try on all armour immediately? for potions and wands should i just wait until i get an ID scroll?
+2015-12-31 02:01:05	keizuki	i mean after a while and a few missed =oDS, autopickup is just a blessing
+2015-12-31 02:02:13	keizuki	i think that's not a bad rule of thumb
+2015-12-31 02:02:41	keizuki	also whenever you find an altar of your alignment sacrifice a few mobs and drop your stuff there then
+2015-12-31 02:13:37	Moult	is it just me or do mobs like to attack each other more now?
+2015-12-31 02:13:52	Moult	they don't all seem to be out to get me, they like to kill each other too
+2015-12-31 02:16:16	keizuki	i think it's also a side effect of easier noticing neutral and friendly mobs
+2015-12-31 02:16:20	keizuki	which is very nice btw
+2015-12-31 02:17:35	keizuki	ha ratling fencer knocked out my cursed weapon
+2015-12-31 02:17:38	keizuki	thanks fencer
+2015-12-31 02:18:09	Chasesp	Give him a pat on the back 
+2015-12-31 02:19:03	-->	agentgt (~agentgt@pool-71-174-232-112.bstnma.fios.verizon.net) has joined #adom
+2015-12-31 02:19:20	Moult	uh oh, running out of food, will a prayer help?
+2015-12-31 02:19:33	keizuki	if you are not hurt or out of mana
+2015-12-31 02:19:35	-->	framling (~user@104.200.154.63) has joined #adom
+2015-12-31 02:19:38	keizuki	there is a manna event with prayers
+2015-12-31 02:20:05	Moult	keizuki: i see
+2015-12-31 02:20:06	--	irc: disconnected from server
+2016-01-05 09:26:57	-->	govardhan (~dasadasa_@5.187.79.4) has joined #adom
+2016-01-05 09:26:57	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2016-01-05 09:26:57	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2016-01-05 09:26:57	--	Channel #adom: 23 nicks (0 ops, 3 voices, 20 normals)
+2016-01-05 09:27:01	--	Channel created on Ср, 04 фев 2009 19:26:36
+2016-01-05 09:43:45	-->	jmr (~jmr@208-104-166-238.rh4.cm.dyn.comporium.net) has joined #adom
+2016-01-05 13:24:05	--	irc: disconnected from server
+2016-01-07 22:21:40	-->	govardhan (~dasadasa_@5.187.79.98) has joined #adom
+2016-01-07 22:21:40	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2016-01-07 22:21:40	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2016-01-07 22:21:40	--	Channel #adom: 26 nicks (0 ops, 4 voices, 22 normals)
+2016-01-07 22:21:44	--	Channel created on Ср, 04 фев 2009 19:26:36
+2016-01-07 23:18:26	<--	ignacio____ (~h0h0h0@23-24-205-106-static.hfc.comcastbusiness.net) has quit (Ping timeout: 240 seconds)
+2016-01-07 23:22:06	--	irc: disconnected from server
+2016-01-08 11:08:07	-->	govardhan (~dasadasa_@5.187.79.98) has joined #adom
+2016-01-08 11:08:07	--	Topic for #adom is "http://adom.de/ UNOFFICIAL channel | ADOM servers at: ancardia.us.to (USA), ancardia.uk.to (EU)"
+2016-01-08 11:08:07	--	Topic set by Alucard (alucard@c-73-253-111-128.hsd1.ma.comcast.net) on Ср, 04 ноя 2015 04:07:39
+2016-01-08 11:08:07	--	Channel #adom: 24 nicks (0 ops, 4 voices, 20 normals)
+2016-01-08 11:08:11	--	Channel created on Ср, 04 фев 2009 19:26:36

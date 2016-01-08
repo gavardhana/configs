@@ -1,0 +1,429 @@
+2014-03-02 11:47:19	-->	govardhan (~dasadasa_@178.234.165.173) has joined #apscheduler
+2014-03-02 11:47:19	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-02 11:47:19	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-02 11:47:19	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-02 11:47:19	--	Notice(orwell.freenode.net): [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2014-03-02 11:47:21	--	Mode #apscheduler [+cnt]
+2014-03-02 11:47:21	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-02 12:09:55	--	irc: disconnected from server
+2014-03-02 12:10:14	-->	govardhan (~dasadasa_@178.234.165.173) has joined #apscheduler
+2014-03-02 12:10:14	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-02 12:10:14	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-02 12:10:14	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-02 12:10:16	--	Mode #apscheduler [+cnt]
+2014-03-02 12:10:16	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-02 13:06:40	--	irc: disconnected from server
+2014-03-02 17:39:37	-->	govardhan (~dasadasa_@178.234.74.207) has joined #apscheduler
+2014-03-02 17:39:37	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-02 17:39:37	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-02 17:39:37	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-03-02 17:39:39	--	Mode #apscheduler [+cnt]
+2014-03-02 17:39:39	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-02 20:10:30	-->	govardhan_ (~fenriz@178.234.74.207) has joined #apscheduler
+2014-03-02 21:50:49	--	irc: disconnected from server
+2014-03-02 21:51:14	-->	govardhan (~dasadasa_@178.234.167.242) has joined #apscheduler
+2014-03-02 21:51:14	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-02 21:51:14	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-02 21:51:14	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-02 21:51:34	--	Mode #apscheduler [+cnt]
+2014-03-02 21:51:34	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-02 22:52:22	--	irc: disconnected from server
+2014-03-02 22:52:44	-->	govardhan (~dasadasa_@178.234.135.213) has joined #apscheduler
+2014-03-02 22:52:44	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-02 22:52:44	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-02 22:52:44	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-03-02 22:53:04	--	Mode #apscheduler [+cnt]
+2014-03-02 22:53:04	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-02 23:08:15	--	irc: disconnected from server
+2014-03-03 19:23:24	-->	govardhan (~dasadasa_@178.234.130.183) has joined #apscheduler
+2014-03-03 19:23:24	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-03 19:23:24	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-03 19:23:24	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-03-03 19:23:27	--	Mode #apscheduler [+cnt]
+2014-03-03 19:23:27	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-03 19:23:37	--	drsm79 is now known as drsm79|out
+2014-03-03 19:34:48	--	drsm79|out is now known as drsm79
+2014-03-03 19:48:25	-->	sentinal8473 (~sentinal8@77.75.107.195) has joined #apscheduler
+2014-03-03 20:01:27	--	drsm79 is now known as drsm79|out
+2014-03-03 20:07:32	--	drsm79|out is now known as drsm79
+2014-03-03 20:11:07	-->	thedodd (~Anthony@rrcs-67-78-97-126.sw.biz.rr.com) has joined #apscheduler
+2014-03-03 21:16:34	--	irc: disconnected from server
+2014-03-03 21:17:01	-->	govardhan (~dasadasa_@178.234.76.205) has joined #apscheduler
+2014-03-03 21:17:01	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-03 21:17:01	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-03 21:17:01	--	Channel #apscheduler: 10 nicks (1 op, 0 voices, 9 normals)
+2014-03-03 21:17:23	--	Mode #apscheduler [+cnt]
+2014-03-03 21:17:23	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-03 21:28:53	--	drsm79 is now known as drsm79|out
+2014-03-03 21:54:06	<--	sentinal8473 (~sentinal8@77.75.107.195) has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+2014-03-03 23:29:51	--	irc: disconnected from server
+2014-03-04 19:02:40	-->	govardhan (~dasadasa_@178.234.169.123) has joined #apscheduler
+2014-03-04 19:02:40	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-04 19:02:40	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-04 19:02:40	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-04 19:02:46	--	Mode #apscheduler [+cnt]
+2014-03-04 19:02:46	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-04 19:23:26	--	irc: disconnected from server
+2014-03-04 19:23:48	-->	govardhan (~dasadasa_@178.234.169.123) has joined #apscheduler
+2014-03-04 19:23:48	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-04 19:23:48	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-04 19:23:48	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-04 19:23:50	--	Mode #apscheduler [+cnt]
+2014-03-04 19:23:50	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-04 19:44:29	-->	thedodd (~Anthony@107-129-122-43.lightspeed.austtx.sbcglobal.net) has joined #apscheduler
+2014-03-04 21:35:30	--	drsm79 is now known as drsm79|out
+2014-03-04 22:56:31	<--	thedodd (~Anthony@107-129-122-43.lightspeed.austtx.sbcglobal.net) has quit (Quit: This computer has gone to sleep)
+2014-03-04 23:00:41	-->	thedodd (Anthony@nat/rackspace/x-guqqdjygjcuxroep) has joined #apscheduler
+2014-03-04 23:38:47	--	irc: disconnected from server
+2014-03-05 20:09:44	-->	govardhan (~dasadasa_@178.234.79.76) has joined #apscheduler
+2014-03-05 20:09:44	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-05 20:09:44	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-05 20:09:44	--	Channel #apscheduler: 10 nicks (1 op, 0 voices, 9 normals)
+2014-03-05 20:09:44	--	Notice(card.freenode.net): [freenode-info] why register and identify? your IRC nick is how people know you. http://freenode.net/faq.shtml#nicksetup
+2014-03-05 20:09:46	--	Mode #apscheduler [+cnt]
+2014-03-05 20:09:46	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-05 21:32:23	--	drsm79 is now known as drsm79|out
+2014-03-05 23:04:26	<--	govardhan_ (~fenriz@178.234.79.76) has quit (Quit: Om namo narayanaya)
+2014-03-05 23:09:50	-->	bolsoisvetik (~bolsoisve@193.28.144.138) has joined #apscheduler
+2014-03-05 23:28:42	--	drsm79|out is now known as drsm79
+2014-03-05 23:40:06	-->	chance (ecnahc515@osuosl/staff/ecnahc515) has joined #apscheduler
+2014-03-05 23:40:17	chance	is there a way to easily update the schedule of an existing job with apscheduler?
+2014-03-05 23:40:29	@agronholm	chance: not in 2.x
+2014-03-05 23:40:38	chance	interesting
+2014-03-05 23:41:01	chance	the way i was thinking of working around that would be to use a db store (sqlalchemy), and then just delete the job from the db and re-create it
+2014-03-05 23:41:03	@agronholm	I'm working on a jobstore system rewrite in 3.x and it has the possibility to update any properties of a job
+2014-03-05 23:41:11	chance	but im not sure if that's going to be quite right
+2014-03-05 23:41:32	@agronholm	may work, depending on how you use the scheduler
+2014-03-05 23:42:25	chance	yeah, im just trying to find a decent periodic events library for syncing our FTP Mirrors
+2014-03-05 23:43:15	chance	and atm most librarys that allow you to do schedule based events, dont allow for updating the schedule dynamically. a lot support 'run this X seconds later' but i just dont like the idea of making that into a schedule so i can do dynamic updating
+2014-03-05 23:48:36	chance	agronholm: i appreciate the quick response though, i look forward to that update
+2014-03-06 00:03:44	--	irc: disconnected from server
+2014-03-06 19:03:22	-->	govardhan (~dasadasa_@178.234.136.204) has joined #apscheduler
+2014-03-06 19:03:22	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-06 19:03:22	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-06 19:03:22	--	Channel #apscheduler: 11 nicks (1 op, 0 voices, 10 normals)
+2014-03-06 19:03:25	--	Mode #apscheduler [+cnt]
+2014-03-06 19:03:25	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-06 19:10:07	<--	sentinal8473 (~sentinal8@77.75.107.195) has quit (Read error: Connection reset by peer)
+2014-03-06 19:13:03	-->	sentinal8473 (~sentinal8@77.75.107.195) has joined #apscheduler
+2014-03-06 19:40:07	-->	thedodd (~Anthony@rrcs-67-78-97-126.sw.biz.rr.com) has joined #apscheduler
+2014-03-06 20:11:34	--	drsm79 is now known as drsm79|out
+2014-03-06 20:27:22	--	irc: disconnected from server
+2014-03-07 17:56:10	-->	govardhan (~dasadasa_@178.234.136.75) has joined #apscheduler
+2014-03-07 17:56:10	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-07 17:56:10	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-07 17:56:10	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-07 17:56:12	--	Mode #apscheduler [+cnt]
+2014-03-07 17:56:12	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-07 18:38:08	--	drsm79 is now known as drsm79|out
+2014-03-07 18:41:03	--	drsm79|out is now known as drsm79
+2014-03-07 18:57:55	--	drsm79 is now known as drsm79|out
+2014-03-07 19:35:20	--	drsm79|out is now known as drsm79
+2014-03-07 19:40:06	--	drsm79 is now known as drsm79|out
+2014-03-07 19:48:34	-->	kdamage (~quassel@38.88.6.34) has joined #apscheduler
+2014-03-07 19:52:19	--	drsm79|out is now known as drsm79
+2014-03-07 20:01:00	-->	thedodd (~Anthony@107-129-122-43.lightspeed.austtx.sbcglobal.net) has joined #apscheduler
+2014-03-07 20:25:28	--	irc: disconnected from server
+2014-03-09 08:45:36	-->	govardhan (~dasadasa_@178.234.76.119) has joined #apscheduler
+2014-03-09 08:45:36	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-09 08:45:36	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-09 08:45:36	--	Channel #apscheduler: 9 nicks (0 ops, 0 voices, 9 normals)
+2014-03-09 08:45:37	--	Mode #apscheduler [+cnt]
+2014-03-09 08:45:37	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-09 08:58:18	--	drsm79|out is now known as drsm79
+2014-03-09 09:08:32	--	drsm79 is now known as drsm79|out
+2014-03-09 09:36:36	--	drsm79|out is now known as drsm79
+2014-03-09 09:41:23	--	drsm79 is now known as drsm79|out
+2014-03-09 10:24:13	<--	zmaster (~zmaster@193.106.31.12) has quit (Ping timeout: 244 seconds)
+2014-03-09 10:36:53	--	drsm79|out is now known as drsm79
+2014-03-09 10:41:32	--	drsm79 is now known as drsm79|out
+2014-03-09 11:36:36	--	drsm79|out is now known as drsm79
+2014-03-09 11:41:36	--	drsm79 is now known as drsm79|out
+2014-03-09 12:36:50	--	drsm79|out is now known as drsm79
+2014-03-09 12:45:11	--	drsm79 is now known as drsm79|out
+2014-03-09 14:15:56	--	edulix_ is now known as Edulix
+2014-03-09 16:14:48	--	drsm79|out is now known as drsm79
+2014-03-09 16:38:56	--	drsm79 is now known as drsm79|out
+2014-03-09 17:10:24	--	irc: disconnected from server
+2014-03-09 17:10:47	-->	govardhana (~dasadasa_@178.234.161.152) has joined #apscheduler
+2014-03-09 17:10:47	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-09 17:10:47	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-09 17:10:47	--	Channel #apscheduler: 9 nicks (0 ops, 0 voices, 9 normals)
+2014-03-09 17:10:48	--	Mode #apscheduler [+cnt]
+2014-03-09 17:10:48	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-09 17:13:56	<--	govardhan (~dasadasa_@178.234.76.119) has quit (Ping timeout: 244 seconds)
+2014-03-09 21:07:11	--	drsm79|out is now known as drsm79
+2014-03-09 22:25:04	--	drsm79 is now known as drsm79|out
+2014-03-09 22:27:55	-->	nebula (~nebula@62.109.22.242) has joined #apscheduler
+2014-03-09 22:28:20	--	nebula is now known as Guest66868
+2014-03-09 23:06:18	--	drsm79|out is now known as drsm79
+2014-03-09 23:17:18	--	drsm79 is now known as drsm79|out
+2014-03-09 23:49:27	<--	Guest66868 (~nebula@62.109.22.242) has quit (Remote host closed the connection)
+2014-03-10 00:01:41	-->	rosiensweet (~rosienswe@91.213.72.152) has joined #apscheduler
+2014-03-10 00:57:42	--	irc: disconnected from server
+2014-03-11 19:09:52	-->	govardhan (~dasadasa_@178.234.130.212) has joined #apscheduler
+2014-03-11 19:09:52	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-11 19:09:52	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-11 19:09:52	--	Channel #apscheduler: 11 nicks (1 op, 0 voices, 10 normals)
+2014-03-11 19:09:53	--	Mode #apscheduler [+cnt]
+2014-03-11 19:09:53	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-11 19:27:49	--	drsm79|out is now known as drsm79
+2014-03-11 21:39:58	--	drsm79 is now known as drsm79|out
+2014-03-11 21:55:30	--	drsm79|out is now known as drsm79
+2014-03-11 22:36:41	--	drsm79 is now known as drsm79|out
+2014-03-11 22:48:09	--	irc: disconnected from server
+2014-03-21 21:05:39	-->	govardhan (~dasadasa_@178.234.163.112) has joined #apscheduler
+2014-03-21 21:05:39	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-21 21:05:39	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-21 21:05:39	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-21 21:05:39	--	Mode #apscheduler [+cnt]
+2014-03-21 21:05:39	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-21 21:06:20	--	drsm79 is now known as drsm79|out
+2014-03-21 21:12:57	--	irc: disconnected from server
+2014-03-26 18:35:02	-->	govardhan (~dasadasa_@178.234.130.227) has joined #apscheduler
+2014-03-26 18:35:02	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-26 18:35:02	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-26 18:35:02	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-26 18:35:03	--	Mode #apscheduler [+cnt]
+2014-03-26 18:35:03	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-26 18:48:57	-->	thedodd (~Anthony@rrcs-67-78-97-126.sw.biz.rr.com) has joined #apscheduler
+2014-03-26 21:19:09	--	drsm79 is now known as drsm79|out
+2014-03-26 21:27:55	<--	darkelda (~darkelda@unaffiliated/darkelda) has quit (Quit: Leaving)
+2014-03-26 22:48:31	--	irc: disconnected from server
+2014-03-27 20:16:05	-->	govardhana (~dasadasa_@178.234.145.56) has joined #apscheduler
+2014-03-27 20:16:05	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-27 20:16:05	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-27 20:16:05	--	Channel #apscheduler: 10 nicks (1 op, 0 voices, 9 normals)
+2014-03-27 20:16:05	--	Mode #apscheduler [+cnt]
+2014-03-27 20:16:05	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-27 20:53:40	--	irc: disconnected from server
+2014-03-27 20:54:06	-->	govardhana (~dasadasa_@178.234.172.188) has joined #apscheduler
+2014-03-27 20:54:06	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-27 20:54:06	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-27 20:54:06	--	Channel #apscheduler: 10 nicks (1 op, 0 voices, 9 normals)
+2014-03-27 20:54:20	--	Mode #apscheduler [+cnt]
+2014-03-27 20:54:20	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-27 21:10:03	<--	thedodd (~Anthony@50.56.230.39) has quit (Quit: This computer has gone to sleep)
+2014-03-27 21:26:56	<--	darkelda (~darkelda@unaffiliated/darkelda) has quit (Quit: Leaving)
+2014-03-27 21:56:14	-->	pmittal (~pramttl@1.38.17.118) has joined #apscheduler
+2014-03-27 21:57:51	--	drsm79|out is now known as drsm79
+2014-03-27 22:09:30	-->	thedodd (~Anthony@50.56.230.39) has joined #apscheduler
+2014-03-27 22:21:41	--	drsm79 is now known as drsm79|out
+2014-03-27 22:24:52	<--	pmittal (~pramttl@1.38.17.118) has quit (Ping timeout: 264 seconds)
+2014-03-27 22:37:22	-->	pmittal (~pramttl@1.38.19.26) has joined #apscheduler
+2014-03-27 22:38:33	--	irc: disconnected from server
+2014-03-29 09:25:23	-->	govardhana (~dasadasa_@178.234.67.25) has joined #apscheduler
+2014-03-29 09:25:23	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-03-29 09:25:23	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-03-29 09:25:23	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-03-29 09:25:24	--	Mode #apscheduler [+cnt]
+2014-03-29 09:25:24	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-03-29 10:51:38	--	irc: disconnected from server
+2014-04-01 22:05:44	-->	govardhana (~dasadasa_@178.234.75.147) has joined #apscheduler
+2014-04-01 22:05:44	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-04-01 22:05:44	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-04-01 22:05:44	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-04-01 22:05:45	--	Mode #apscheduler [+cnt]
+2014-04-01 22:05:45	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-04-01 22:49:21	-->	thedodd (~Anthony@rrcs-67-78-97-126.sw.biz.rr.com) has joined #apscheduler
+2014-04-01 23:24:34	--	irc: disconnected from server
+2014-04-27 10:47:47	-->	govardhan (~dasadasa_@178.234.145.195) has joined #apscheduler
+2014-04-27 10:47:47	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-04-27 10:47:47	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-04-27 10:47:47	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-04-27 10:47:47	--	Mode #apscheduler [+cnt]
+2014-04-27 10:47:47	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-04-27 12:02:08	--	irc: disconnected from server
+2014-04-27 12:02:33	-->	govardhan (~dasadasa_@178.234.69.136) has joined #apscheduler
+2014-04-27 12:02:33	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-04-27 12:02:33	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-04-27 12:02:33	--	Channel #apscheduler: 7 nicks (1 op, 0 voices, 6 normals)
+2014-04-27 12:02:48	--	Mode #apscheduler [+cnt]
+2014-04-27 12:02:48	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-04-27 12:04:41	-->	pmittal (~pramttl@1.38.17.65) has joined #apscheduler
+2014-04-27 12:12:59	<--	edulix (~quassel@ks27172.kimsufi.com) has quit (Ping timeout: 240 seconds)
+2014-04-27 12:17:02	-->	edulix (~quassel@ks27172.kimsufi.com) has joined #apscheduler
+2014-04-27 12:21:14	<--	pmittal (~pramttl@1.38.17.65) has quit (Quit: Leaving)
+2014-04-27 18:20:42	<--	edulix (~quassel@ks27172.kimsufi.com) has quit (Ping timeout: 255 seconds)
+2014-04-27 18:28:43	-->	edulix (~quassel@ks27172.kimsufi.com) has joined #apscheduler
+2014-04-27 20:47:15	<--	edulix (~quassel@ks27172.kimsufi.com) has quit (Ping timeout: 252 seconds)
+2014-04-27 20:52:53	-->	edulix (~quassel@ks27172.kimsufi.com) has joined #apscheduler
+2014-04-27 21:29:42	<--	edulix (~quassel@ks27172.kimsufi.com) has quit (Ping timeout: 264 seconds)
+2014-04-27 21:35:37	-->	edulix (~quassel@ks27172.kimsufi.com) has joined #apscheduler
+2014-04-27 22:11:10	-->	pmittal (~pramttl@1.38.20.189) has joined #apscheduler
+2014-04-27 22:20:45	<--	pmittal (~pramttl@1.38.20.189) has quit (Ping timeout: 252 seconds)
+2014-04-27 22:36:41	-->	pmittal (~pramttl@1.38.21.6) has joined #apscheduler
+2014-04-27 23:25:27	<--	pmittal (~pramttl@1.38.21.6) has quit (Quit: Leaving)
+2014-04-27 23:39:19	--	irc: disconnected from server
+2014-05-02 15:38:50	-->	govardhana (~dasadasa_@178.234.168.144) has joined #apscheduler
+2014-05-02 15:38:50	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-02 15:38:50	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-02 15:38:50	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-02 15:38:51	--	Mode #apscheduler [+cnt]
+2014-05-02 15:38:51	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-02 16:14:49	<--	govardhan (~fenriz@178.234.168.144) has quit (Quit: Om namo narayanaya)
+2014-05-02 17:33:01	--	drsm79|out is now known as drsm79
+2014-05-02 18:12:49	--	drsm79 is now known as drsm79|out
+2014-05-02 18:12:52	--	drsm79|out is now known as drsm79
+2014-05-02 18:17:20	--	drsm79 is now known as drsm79|out
+2014-05-02 18:24:44	<--	edulix_ (~quassel@ks27172.kimsufi.com) has quit (Ping timeout: 240 seconds)
+2014-05-02 18:26:50	-->	edulix (~quassel@ks27172.kimsufi.com) has joined #apscheduler
+2014-05-02 19:00:34	--	drsm79|out is now known as drsm79
+2014-05-02 19:07:08	--	irc: disconnected from server
+2014-05-02 19:07:31	-->	gavardhan (~dasadasa_@178.234.140.135) has joined #apscheduler
+2014-05-02 19:07:31	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-02 19:07:31	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-02 19:07:31	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-02 19:07:46	--	Mode #apscheduler [+cnt]
+2014-05-02 19:07:46	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-02 19:08:52	-->	thedodd (~Anthony@rrcs-67-78-97-126.sw.biz.rr.com) has joined #apscheduler
+2014-05-02 19:10:31	<--	govardhana (~dasadasa_@178.234.168.144) has quit (Ping timeout: 250 seconds)
+2014-05-02 20:09:42	--	drsm79|out is now known as drsm79
+2014-05-02 20:29:59	--	drsm79 is now known as drsm79|out
+2014-05-02 20:30:02	--	drsm79|out is now known as drsm79
+2014-05-02 20:34:31	--	drsm79 is now known as drsm79|out
+2014-05-02 20:47:20	--	drsm79|out is now known as drsm79
+2014-05-02 21:49:58	--	drsm79 is now known as drsm79|out
+2014-05-02 22:42:57	--	irc: disconnected from server
+2014-05-02 22:43:21	-->	gavardhan (~dasadasa_@178.234.79.195) has joined #apscheduler
+2014-05-02 22:43:21	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-02 22:43:21	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-02 22:43:21	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-02 22:43:35	--	Mode #apscheduler [+cnt]
+2014-05-02 22:43:35	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-02 23:44:13	--	drsm79 is now known as drsm79|out
+2014-05-02 23:44:15	--	drsm79|out is now known as drsm79
+2014-05-02 23:52:59	--	drsm79 is now known as drsm79|out
+2014-05-03 00:16:14	--	irc: disconnected from server
+2014-05-03 00:16:39	-->	gavardhan (~dasadasa_@178.234.78.172) has joined #apscheduler
+2014-05-03 00:16:39	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-03 00:16:39	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-03 00:16:39	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-03 00:16:39	--	Mode #apscheduler [+cnt]
+2014-05-03 00:16:39	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-03 01:00:34	--	irc: disconnected from server
+2014-05-03 01:00:57	-->	gavardhan (~dasadasa_@178.234.78.172) has joined #apscheduler
+2014-05-03 01:00:57	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-03 01:00:57	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-03 01:00:57	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-03 01:00:57	--	Notice(kornbluth.freenode.net): [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2014-05-03 01:01:11	--	Mode #apscheduler [+cnt]
+2014-05-03 01:01:11	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-03 01:14:31	--	drsm79|out is now known as drsm79
+2014-05-03 01:23:14	--	drsm79 is now known as drsm79|out
+2014-05-03 01:24:47	--	irc: disconnected from server
+2014-05-03 11:33:22	-->	govardhan (~dasadasa_@178.234.78.172) has joined #apscheduler
+2014-05-03 11:33:22	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-03 11:33:22	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-03 11:33:22	--	Channel #apscheduler: 7 nicks (1 op, 0 voices, 6 normals)
+2014-05-03 11:33:23	--	Mode #apscheduler [+cnt]
+2014-05-03 11:33:23	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-03 12:04:29	<--	Guest72198 (~KG@triton954.server4you.net) has quit (*.net *.split)
+2014-05-03 12:06:46	-->	Guest72198 (~KG@triton954.server4you.net) has joined #apscheduler
+2014-05-03 13:40:26	--	irc: disconnected from server
+2014-05-05 21:49:38	-->	govardhan (~dasadasa_@178.234.165.187) has joined #apscheduler
+2014-05-05 21:49:38	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-05 21:49:38	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-05 21:49:38	--	Channel #apscheduler: 7 nicks (1 op, 0 voices, 6 normals)
+2014-05-05 21:49:39	--	Mode #apscheduler [+cnt]
+2014-05-05 21:49:39	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-05 22:21:05	-->	doddstack (~Anthony@rrcs-67-78-97-126.sw.biz.rr.com) has joined #apscheduler
+2014-05-05 22:32:07	-->	pmittal (~pramttl@1.38.19.56) has joined #apscheduler
+2014-05-05 22:42:37	<--	pmittal (~pramttl@1.38.19.56) has quit (Ping timeout: 245 seconds)
+2014-05-05 23:06:54	-->	pmittal (~pramttl@1.38.18.128) has joined #apscheduler
+2014-05-05 23:09:20	--	irc: disconnected from server
+2014-05-07 22:33:37	-->	govardhan (~dasadasa_@178.234.69.75) has joined #apscheduler
+2014-05-07 22:33:40	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-07 22:33:40	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-07 22:33:40	--	Channel #apscheduler: 9 nicks (1 op, 0 voices, 8 normals)
+2014-05-07 22:33:41	--	Mode #apscheduler [+cnt]
+2014-05-07 22:33:41	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-07 22:49:24	<--	pmittal (~pramttl@1.38.16.221) has quit (Quit: Leaving)
+2014-05-07 23:10:54	--	irc: disconnected from server
+2014-05-09 11:20:14	-->	govardhan (~dasadasa_@178.234.145.205) has joined #apscheduler
+2014-05-09 11:20:14	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-09 11:20:14	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-09 11:20:14	--	Channel #apscheduler: 7 nicks (1 op, 0 voices, 6 normals)
+2014-05-09 11:20:14	--	Mode #apscheduler [+cnt]
+2014-05-09 11:20:14	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-09 11:26:57	--	drsm79|out is now known as drsm79
+2014-05-09 11:42:20	--	drsm79 is now known as drsm79|out
+2014-05-09 12:05:58	-->	darkelda (~darkelda@blm-hq-01.ig-1.net) has joined #apscheduler
+2014-05-09 12:05:58	<--	darkelda (~darkelda@blm-hq-01.ig-1.net) has quit (Changing host)
+2014-05-09 12:05:58	-->	darkelda (~darkelda@unaffiliated/darkelda) has joined #apscheduler
+2014-05-09 12:54:11	--	irc: disconnected from server
+2014-05-09 12:54:44	-->	govardhan (~dasadasa_@178.234.145.205) has joined #apscheduler
+2014-05-09 12:54:44	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-09 12:54:44	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-09 12:54:44	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-09 12:55:24	--	Mode #apscheduler [+cnt]
+2014-05-09 12:55:24	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-09 13:35:35	--	irc: disconnected from server
+2014-05-09 13:38:10	-->	govardhan (~dasadasa_@178.234.145.205) has joined #apscheduler
+2014-05-09 13:38:10	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-09 13:38:10	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-09 13:38:10	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-09 13:41:42	--	Mode #apscheduler [+cnt]
+2014-05-09 13:41:42	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-09 14:19:05	--	irc: disconnected from server
+2014-05-09 14:19:27	-->	govardhan (~dasadasa_@178.234.145.205) has joined #apscheduler
+2014-05-09 14:19:27	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-09 14:19:27	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-09 14:19:27	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-09 14:19:41	--	Mode #apscheduler [+cnt]
+2014-05-09 14:19:41	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-09 14:56:01	<--	darkelda (~darkelda@unaffiliated/darkelda) has quit (Ping timeout: 240 seconds)
+2014-05-09 15:44:07	--	drsm79 is now known as drsm79|out
+2014-05-09 15:45:23	<--	govardhan (~dasadasa_@178.234.145.205) has left #apscheduler ("WeeChat 0.4.4-dev")
+2014-05-10 07:49:46	-->	govardhan (~dasadasa_@178.234.145.205) has joined #apscheduler
+2014-05-10 07:49:46	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-10 07:49:46	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-10 07:49:46	--	Channel #apscheduler: 7 nicks (1 op, 0 voices, 6 normals)
+2014-05-10 07:49:46	--	Mode #apscheduler [+cnt]
+2014-05-10 07:49:46	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-10 08:17:56	--	irc: disconnected from server
+2014-05-10 08:18:22	-->	govardhana (~dasadasa_@178.234.140.151) has joined #apscheduler
+2014-05-10 08:18:22	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-10 08:18:22	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-10 08:18:22	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-10 08:18:22	--	Mode #apscheduler [+cnt]
+2014-05-10 08:18:22	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-10 08:21:10	<--	govardhan (~dasadasa_@178.234.145.205) has quit (Ping timeout: 252 seconds)
+2014-05-10 11:36:22	<--	govardhana (~dasadasa_@178.234.140.151) has quit (Ping timeout: 258 seconds)
+2014-05-10 11:36:22	--	irc: disconnected from server
+2014-05-10 11:36:48	-->	gavardhan (~dasadasa_@178.234.140.151) has joined #apscheduler
+2014-05-10 11:36:48	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-10 11:36:48	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-10 11:36:48	--	Channel #apscheduler: 8 nicks (1 op, 0 voices, 7 normals)
+2014-05-10 11:36:48	--	Mode #apscheduler [+cnt]
+2014-05-10 11:36:48	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-10 11:45:56	<--	govardhana (~dasadasa_@178.234.140.151) has quit (Ping timeout: 258 seconds)
+2014-05-10 11:47:45	--	drsm79|out is now known as drsm79
+2014-05-10 11:48:34	--	drsm79 is now known as drsm79|out
+2014-05-10 12:11:56	--	drsm79|out is now known as drsm79
+2014-05-10 12:12:57	--	drsm79 is now known as drsm79|out
+2014-05-10 12:17:28	--	drsm79|out is now known as drsm79
+2014-05-10 12:24:33	--	drsm79 is now known as drsm79|out
+2014-05-10 12:24:36	--	drsm79|out is now known as drsm79
+2014-05-10 12:29:07	--	drsm79 is now known as drsm79|out
+2014-05-10 15:24:53	--	drsm79|out is now known as drsm79
+2014-05-10 15:29:21	--	drsm79 is now known as drsm79|out
+2014-05-10 19:47:59	--	irc: disconnected from server
+2014-05-10 19:48:23	-->	govardhan (~dasadasa_@178.234.140.151) has joined #apscheduler
+2014-05-10 19:48:23	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-10 19:48:23	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-10 19:48:23	--	Channel #apscheduler: 7 nicks (1 op, 0 voices, 6 normals)
+2014-05-10 19:48:23	--	Mode #apscheduler [+cnt]
+2014-05-10 19:48:23	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-10 20:57:53	-->	pmittal (~pramttl@1.38.17.29) has joined #apscheduler
+2014-05-10 23:09:02	<--	pmittal (~pramttl@1.38.17.29) has quit (Ping timeout: 265 seconds)
+2014-05-10 23:59:39	--	irc: disconnected from server
+2014-05-11 08:18:51	-->	govardhan (~dasadasa_@178.234.174.172) has joined #apscheduler
+2014-05-11 08:18:51	--	Topic for #apscheduler is "Advanced Python Scheduler | http://pypi.python.org/pypi/APScheduler/ | Latest release: v2.1.2 (http://pypi.python.org/pypi/APScheduler) | Discussion group at http://groups.google.com/group/apscheduler"
+2014-05-11 08:18:51	--	Topic set by agronholm (~agronholm@2001:1bc8:102:6f29:8d5:892c:6b07:feff) on Сбт, 18 Янв 2014 16:25:06
+2014-05-11 08:18:51	--	Channel #apscheduler: 7 nicks (1 op, 0 voices, 6 normals)
+2014-05-11 08:18:51	--	Mode #apscheduler [+cnt]
+2014-05-11 08:18:51	--	Channel created on Чтв, 28 Янв 2010 23:32:27
+2014-05-11 08:23:41	-->	govardhan_ (~fenriz@178.234.174.172) has joined #apscheduler
+2014-05-11 09:12:41	<--	govardhan_ (~fenriz@178.234.174.172) has quit (Quit: Om namo narayanaya)
+2014-05-11 09:34:38	--	irc: disconnected from server

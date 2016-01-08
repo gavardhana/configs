@@ -1,0 +1,95 @@
+2015-04-12 08:20:15	-->	govardhana (~dasadasa_@5.187.79.106) has joined #gentoo-ru
+2015-04-12 08:20:16	--	Topic for #gentoo-ru is "<- Official Gentoo Russian _SUPPORT_ channel | All other stuff goes to #gentoo-chat-ru -> Please speak Russian in UTF-8 or English | Set charset: http://xrl.us/bhuqcr | Channel policy: http://xrl.us/bosqeq | Don't paste >3 lines, use http://dpaste.com | Троллей не кормить! | Official Gentoo Wiki: http://wiki.gentoo.org/"
+2015-04-12 08:20:16	--	Topic set by KostyaSha on Ср, 03 апр 2013 14:20:35
+2015-04-12 08:20:16	--	Channel #gentoo-ru: 40 nicks (1 op, 0 voices, 39 normals)
+2015-04-12 08:20:16	--	PvNotice(ChanServ): Welcome to Official Russian Gentoo Linux Channel!
+2015-04-12 08:20:17	--	Mode #gentoo-ru [+cnrt]
+2015-04-12 08:20:17	--	Channel created on Вс, 26 ноя 2006 09:42:46
+2015-04-12 08:45:30	<--	willikins (nobody@gentoo/bot/Willikins) has quit (Disconnected by services)
+2015-04-12 08:53:52	<--	Stels (~stels@95.104.253.13) has quit (*.net *.split)
+2015-04-12 08:53:52	<--	Corvus` (~wolf]@unaffiliated/wolf/x-7838296) has quit (*.net *.split)
+2015-04-12 08:53:52	<--	Black_Angel_home (~azrael@178.121.208.140) has quit (*.net *.split)
+2015-04-12 08:53:52	<--	dustinm (~dustinm@105.ip-167-114-152.net) has quit (*.net *.split)
+2015-04-12 08:53:57	-->	dustinm- (~dustinm@105.ip-167-114-152.net) has joined #gentoo-ru
+2015-04-12 08:57:24	-->	Stels (~stels@95.104.253.13) has joined #gentoo-ru
+2015-04-12 09:00:28	-->	Black_Angel_home (~azrael@178.121.208.140) has joined #gentoo-ru
+2015-04-12 09:00:44	-->	nE0sIghT (~Thunderbi@unaffiliated/ne0sight) has joined #gentoo-ru
+2015-04-12 09:07:40	-->	willikins (nobody@gentoo/bot/Willikins) has joined #gentoo-ru
+2015-04-12 09:12:01	-->	pro_z (~pro_z@37.44.103.36) has joined #gentoo-ru
+2015-04-12 09:18:13	<--	Black_Angel_home (~azrael@178.121.208.140) has quit (Read error: Connection reset by peer)
+2015-04-12 09:32:24	-->	Black_Angel_home (~azrael@37.44.86.81) has joined #gentoo-ru
+2015-04-12 09:47:17	<--	SKonst (~SKonst@pppoe-1525.urtc.ru) has quit (Quit: KVIrc 4.3.1 Aria http://www.kvirc.net/)
+2015-04-12 10:10:48	-->	cnonim (~cNoNim@188.235.12.161) has joined #gentoo-ru
+2015-04-12 10:45:50	<--	cnonim (~cNoNim@188.235.12.161) has quit (Read error: Connection reset by peer)
+2015-04-12 10:51:19	-->	cnonim (~cNoNim@188.235.12.161) has joined #gentoo-ru
+2015-04-12 10:51:33	cnonim	can i use archivemount in post-image scripts?
+2015-04-12 10:52:03	cnonim	i should write host package? or i can use external?
+2015-04-12 10:52:23	cnonim	oups )
+2015-04-12 10:52:38	cnonim	всем привет, не тот чат )
+2015-04-12 11:07:55	-->	target_i (~target_i@80.242.97.152) has joined #gentoo-ru
+2015-04-12 11:08:43	<--	nE0sIghT (~Thunderbi@unaffiliated/ne0sight) has quit (Quit: nE0sIghT)
+2015-04-12 11:10:22	-->	nE0sIghT (~Thunderbi@unaffiliated/ne0sight) has joined #gentoo-ru
+2015-04-12 11:47:57	-->	Osleg (~akira@114.108.213.121) has joined #gentoo-ru
+2015-04-12 11:59:19	-->	Vurtatoo (~Vurtatoo@178.121.254.136) has joined #gentoo-ru
+2015-04-12 12:06:24	-->	tolstiyman (~CLD@77.122.51.140) has joined #gentoo-ru
+2015-04-12 12:13:08	<--	Osleg (~akira@114.108.213.121) has quit (Ping timeout: 272 seconds)
+2015-04-12 12:13:47	<--	cnonim (~cNoNim@188.235.12.161) has quit (Quit: WeeChat 1.1.1)
+2015-04-12 12:20:31	-->	Osleg (~akira@114.108.213.121) has joined #gentoo-ru
+2015-04-12 12:29:16	<--	Yuego (~ego@188.162.41.15) has quit (Ping timeout: 265 seconds)
+2015-04-12 12:54:05	-->	Feniksa|2 (~feniksa@host-176-37-46-246.la.net.ua) has joined #gentoo-ru
+2015-04-12 12:57:42	-->	alendelon (~alendelon@unaffiliated/alendelon) has joined #gentoo-ru
+2015-04-12 13:38:10	<--	sektour (~SEKTOUR@MEXAHOTABOP.broker.freenet6.net) has quit (Ping timeout: 256 seconds)
+2015-04-12 13:40:04	-->	sektour (~SEKTOUR@MEXAHOTABOP.broker.freenet6.net) has joined #gentoo-ru
+2015-04-12 13:41:08	-->	wolf] (~wolf]@unaffiliated/wolf/x-7838296) has joined #gentoo-ru
+2015-04-12 13:41:19	--	wolf] is now known as Corvus`
+2015-04-12 13:42:38	-->	SKonst (~SKonst@43-7-191-213.fttb.ur.ru) has joined #gentoo-ru
+2015-04-12 13:52:49	--	irc: disconnected from server
+2015-05-03 21:39:45	-->	govardhana (~dasadasa_@5.187.79.76) has joined #gentoo-ru
+2015-05-03 21:39:45	--	Topic for #gentoo-ru is "<- Official Gentoo Russian _SUPPORT_ channel | All other stuff goes to #gentoo-chat-ru -> Please speak Russian in UTF-8 or English | Set charset: http://xrl.us/bhuqcr | Channel policy: http://xrl.us/bosqeq | Don't paste >3 lines, use http://dpaste.com | Троллей не кормить! | Official Gentoo Wiki: http://wiki.gentoo.org/"
+2015-05-03 21:39:45	--	Topic set by KostyaSha on Ср, 03 апр 2013 14:20:35
+2015-05-03 21:39:45	--	Channel #gentoo-ru: 47 nicks (1 op, 0 voices, 46 normals)
+2015-05-03 21:39:45	--	PvNotice(ChanServ): Welcome to Official Russian Gentoo Linux Channel!
+2015-05-03 21:39:46	--	Mode #gentoo-ru [+cnrt]
+2015-05-03 21:39:46	--	Channel created on Вс, 26 ноя 2006 09:42:46
+2015-05-03 21:41:39	-->	Vurtatoo (~Vurtatoo@37.213.250.246) has joined #gentoo-ru
+2015-05-03 22:09:55	--	irc: disconnected from server
+2015-05-13 11:19:17	-->	govardhana (~dasadasa_@5.187.79.63) has joined #gentoo-ru
+2015-05-13 11:19:18	--	Topic for #gentoo-ru is "<- Official Gentoo Russian _SUPPORT_ channel | All other stuff goes to #gentoo-chat-ru -> Please speak Russian in UTF-8 or English | Set charset: http://xrl.us/bhuqcr | Channel policy: http://xrl.us/bosqeq | Don't paste >3 lines, use http://dpaste.com | Троллей не кормить! | Official Gentoo Wiki: http://wiki.gentoo.org/"
+2015-05-13 11:19:18	--	Topic set by KostyaSha on Ср, 03 апр 2013 14:20:35
+2015-05-13 11:19:18	--	Channel #gentoo-ru: 44 nicks (1 op, 0 voices, 43 normals)
+2015-05-13 11:19:18	--	PvNotice(ChanServ): Welcome to Official Russian Gentoo Linux Channel!
+2015-05-13 11:19:19	--	Channel created on Вс, 26 ноя 2006 09:42:46
+2015-05-13 11:37:12	<--	ivanich (~ivanich@ivanich.tenet.odessa.ua) has quit (Read error: No route to host)
+2015-05-13 11:37:38	-->	ivanich (~ivanich@ivanich.tenet.odessa.ua) has joined #gentoo-ru
+2015-05-13 12:08:22	-->	Hellfireson (~hellish@89.169.164.120) has joined #gentoo-ru
+2015-05-13 12:38:12	<--	selat (~selat@217.21.43.95) has quit (Quit: Lost terminal)
+2015-05-13 12:46:57	BaltecoTroll	https://pbs.twimg.com/media/BFy56uWCcAEKpvX.jpg
+2015-05-13 12:56:20	--	irc: disconnected from server
+2015-05-22 20:01:13	-->	govardhana (~dasadasa_@5.187.79.76) has joined #gentoo-ru
+2015-05-22 20:01:13	--	Topic for #gentoo-ru is "<- Official Gentoo Russian _SUPPORT_ channel | All other stuff goes to #gentoo-chat-ru -> Please speak Russian in UTF-8 or English | Set charset: http://xrl.us/bhuqcr | Channel policy: http://xrl.us/bosqeq | Don't paste >3 lines, use http://dpaste.com | Троллей не кормить! | Official Gentoo Wiki: http://wiki.gentoo.org/"
+2015-05-22 20:01:13	--	Topic set by KostyaSha on Ср, 03 апр 2013 14:20:35
+2015-05-22 20:01:13	--	Channel #gentoo-ru: 45 nicks (1 op, 0 voices, 44 normals)
+2015-05-22 20:01:13	--	PvNotice(ChanServ): Welcome to Official Russian Gentoo Linux Channel!
+2015-05-22 20:01:16	--	Channel created on Вс, 26 ноя 2006 09:42:46
+2015-05-22 20:24:34	-->	nehex (~nehex@178.165.50.13) has joined #gentoo-ru
+2015-05-22 20:24:38	<--	Ordog_by (~quassel@178.124.164.46) has quit (Quit: Bender may not have learned anything from me, but I think I actually learned something from him. So long, jerkwads!)
+2015-05-22 21:21:55	<--	damex (~damex@funtoo/dev/damex) has quit (Quit: damex)
+2015-05-22 21:28:28	<--	selat (~selat@87.252.225.7) has quit (Quit: Lost terminal)
+2015-05-22 21:45:07	-->	damex (~damex@funtoo/dev/damex) has joined #gentoo-ru
+2015-05-22 21:58:30	<--	susman (~susman@ip5b403bf7.dynamic.kabel-deutschland.de) has quit (Ping timeout: 258 seconds)
+2015-05-22 21:59:58	--	irc: disconnected from server
+2015-06-19 19:47:21	-->	govardhana (~dasadasa_@5.187.79.3) has joined #gentoo-ru
+2015-06-19 19:47:21	--	Topic for #gentoo-ru is "<- Official Gentoo Russian _SUPPORT_ channel | All other stuff goes to #gentoo-chat-ru -> Please speak Russian in UTF-8 or English | Set charset: http://xrl.us/bhuqcr | Channel policy: http://xrl.us/bosqeq | Don't paste >3 lines, use http://dpaste.com | Троллей не кормить! | Official Gentoo Wiki: http://wiki.gentoo.org/"
+2015-06-19 19:47:21	--	Topic set by KostyaSha on Ср, 03 апр 2013 14:20:35
+2015-06-19 19:47:21	--	Channel #gentoo-ru: 48 nicks (1 op, 0 voices, 47 normals)
+2015-06-19 19:47:21	--	Notice(orwell.freenode.net): [freenode-info] if you're at a conference and other people are having trouble connecting, please mention it to staff: http://freenode.net/faq.shtml#gettinghelp
+2015-06-19 19:47:21	--	PvNotice(ChanServ): Welcome to Official Russian Gentoo Linux Channel!
+2015-06-19 19:47:23	--	Channel created on Вс, 26 ноя 2006 09:42:46
+2015-06-19 20:02:16	<--	Ordog_by (~quassel@178.124.164.46) has quit (Quit: Bender may not have learned anything from me, but I think I actually learned something from him. So long, jerkwads!)
+2015-06-19 20:02:31	<--	dzhus (~dzhus@95-31-27-234.broadband.corbina.ru) has quit (Read error: Connection reset by peer)
+2015-06-19 20:03:35	<--	burik666 (~BuriK@ip-5-61-14-142.spb.avantel.ru) has quit (Quit: Leaving.)
+2015-06-19 20:07:51	-->	SKonst (~SKonst@188.18.172.133) has joined #gentoo-ru
+2015-06-19 20:12:03	<--	nE0sIghT (~Thunderbi@unaffiliated/ne0sight) has quit (Remote host closed the connection)
+2015-06-19 20:12:19	<--	damex (~damex@funtoo/dev/damex) has quit (Ping timeout: 265 seconds)
+2015-06-19 20:15:34	-->	nE0sIghT (~Thunderbi@unaffiliated/ne0sight) has joined #gentoo-ru
+2015-06-19 20:20:33	--	irc: disconnected from server

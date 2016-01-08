@@ -1,0 +1,485 @@
+2014-03-02 11:47:19	-->	govardhan (~dasadasa_@178.234.165.173) has joined #gentoo-talks
+2014-03-02 11:47:19	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/CqjJO"
+2014-03-02 11:47:19	--	Topic set by dca_ (~dca@146.185.164.188) on Срд, 05 Фев 2014 01:26:24
+2014-03-02 11:47:19	--	Channel #gentoo-talks: 18 nicks (2 ops, 0 voices, 16 normals)
+2014-03-02 11:47:29	--	Mode #gentoo-talks [+Ccnst]
+2014-03-02 11:47:29	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-02 11:57:18	-->	ckorzhik` (~user@109.62.184.247) has joined #gentoo-talks
+2014-03-02 11:59:12	<--	ckorzhik (~user@109.62.209.241) has quit (Ping timeout: 264 seconds)
+2014-03-02 12:09:55	--	irc: disconnected from server
+2014-03-02 12:10:15	-->	govardhan (~dasadasa_@178.234.165.173) has joined #gentoo-talks
+2014-03-02 12:10:15	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/CqjJO"
+2014-03-02 12:10:15	--	Topic set by dca_ (~dca@146.185.164.188) on Срд, 05 Фев 2014 01:26:24
+2014-03-02 12:10:15	--	Channel #gentoo-talks: 18 nicks (2 ops, 0 voices, 16 normals)
+2014-03-02 12:10:24	--	Mode #gentoo-talks [+Ccnst]
+2014-03-02 12:10:24	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-02 13:06:40	--	irc: disconnected from server
+2014-03-02 17:39:37	-->	govardhan (~dasadasa_@178.234.74.207) has joined #gentoo-talks
+2014-03-02 17:39:37	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/CqjJO"
+2014-03-02 17:39:37	--	Topic set by dca_ (~dca@146.185.164.188) on Срд, 05 Фев 2014 01:26:24
+2014-03-02 17:39:38	--	Channel #gentoo-talks: 18 nicks (2 ops, 0 voices, 16 normals)
+2014-03-02 17:39:47	--	Mode #gentoo-talks [+Ccnst]
+2014-03-02 17:39:47	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-02 17:40:09	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-02 20:01:32	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-02 20:10:30	-->	govardhan_ (~fenriz@178.234.74.207) has joined #gentoo-talks
+2014-03-02 20:22:55	-->	alxchk (~alxchk@alpha.alxchk.me) has joined #gentoo-talks
+2014-03-02 20:43:41	-->	ckorzhik (~user@46.72.25.129) has joined #gentoo-talks
+2014-03-02 20:57:45	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-02 21:50:49	--	irc: disconnected from server
+2014-03-02 21:51:20	-->	govardhan (~dasadasa_@178.234.167.242) has joined #gentoo-talks
+2014-03-02 21:51:20	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/CqjJO"
+2014-03-02 21:51:20	--	Topic set by dca_ (~dca@146.185.164.188) on Срд, 05 Фев 2014 01:26:24
+2014-03-02 21:51:20	--	Channel #gentoo-talks: 20 nicks (2 ops, 0 voices, 18 normals)
+2014-03-02 21:51:42	--	Mode #gentoo-talks [+Ccnst]
+2014-03-02 21:51:42	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-02 22:02:12	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-02 22:13:58	-->	alxchk (~alxchk@alpha.alxchk.me) has joined #gentoo-talks
+2014-03-02 22:15:50	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-02 22:52:22	--	irc: disconnected from server
+2014-03-02 22:52:50	-->	govardhan (~dasadasa_@178.234.135.213) has joined #gentoo-talks
+2014-03-02 22:52:50	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/CqjJO"
+2014-03-02 22:52:50	--	Topic set by dca_ (~dca@146.185.164.188) on Срд, 05 Фев 2014 01:26:24
+2014-03-02 22:52:50	--	Channel #gentoo-talks: 20 nicks (2 ops, 0 voices, 18 normals)
+2014-03-02 22:53:12	--	Mode #gentoo-talks [+Ccnst]
+2014-03-02 22:53:12	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-02 22:57:31	--	Radjah is now known as Radjah|Away
+2014-03-02 23:08:15	--	irc: disconnected from server
+2014-03-03 19:23:24	-->	govardhan (~dasadasa_@178.234.130.183) has joined #gentoo-talks
+2014-03-03 19:23:24	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-03 19:23:24	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:03
+2014-03-03 19:23:24	--	Channel #gentoo-talks: 17 nicks (2 ops, 0 voices, 15 normals)
+2014-03-03 19:23:35	--	Mode #gentoo-talks [+Ccnst]
+2014-03-03 19:23:36	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-03 19:34:43	-->	l29ah (~l29ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-03 20:07:02	-->	O01eg (~o01eg@213.87.137.48) has joined #gentoo-talks
+2014-03-03 20:34:32	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-03 20:35:16	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-03 21:16:34	--	irc: disconnected from server
+2014-03-03 21:17:07	-->	govardhan (~dasadasa_@178.234.76.205) has joined #gentoo-talks
+2014-03-03 21:17:07	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-03 21:17:07	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:16:29
+2014-03-03 21:17:07	--	Channel #gentoo-talks: 19 nicks (2 ops, 0 voices, 17 normals)
+2014-03-03 21:17:31	--	Mode #gentoo-talks [+Ccnst]
+2014-03-03 21:17:31	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-03 22:10:55	<--	l29ah (~l29ah@jabber.spbu.ru) has left #gentoo-talks
+2014-03-03 22:11:22	-->	l29ah (~l29ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-03 22:35:05	<--	alxchk (~alxchk@alpha.alxchk.me) has quit (Ping timeout: 244 seconds)
+2014-03-03 23:29:51	--	irc: disconnected from server
+2014-03-04 19:02:41	-->	govardhan (~dasadasa_@178.234.169.123) has joined #gentoo-talks
+2014-03-04 19:02:41	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-04 19:02:41	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:01
+2014-03-04 19:02:41	--	Channel #gentoo-talks: 15 nicks (2 ops, 0 voices, 13 normals)
+2014-03-04 19:02:52	--	Mode #gentoo-talks [+Ccnst]
+2014-03-04 19:02:52	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-04 19:23:26	--	irc: disconnected from server
+2014-03-04 19:23:49	-->	govardhan (~dasadasa_@178.234.169.123) has joined #gentoo-talks
+2014-03-04 19:23:49	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-04 19:23:49	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:01
+2014-03-04 19:23:49	--	Channel #gentoo-talks: 15 nicks (2 ops, 0 voices, 13 normals)
+2014-03-04 19:23:58	--	Mode #gentoo-talks [+Ccnst]
+2014-03-04 19:23:58	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-04 19:31:50	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-04 19:32:24	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-04 19:43:43	-->	l29ah (~l29ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-04 20:00:57	-->	O01eg (~o01eg@213.87.129.169) has joined #gentoo-talks
+2014-03-04 20:03:17	-->	int0dh (~int0dh@188.162.64.118) has joined #gentoo-talks
+2014-03-04 20:36:24	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-04 20:38:31	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-04 20:59:24	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-04 21:00:21	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-04 22:32:13	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-04 22:50:36	<--	Radjah (radjanato@91.234.60.90) has quit (Remote host closed the connection)
+2014-03-04 23:10:24	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-04 23:16:19	-->	Radjah|Away (radjanato@91.234.60.90) has joined #gentoo-talks
+2014-03-04 23:16:25	--	Radjah|Away is now known as Radjah
+2014-03-04 23:38:47	--	irc: disconnected from server
+2014-03-05 20:09:44	-->	govardhan (~dasadasa_@178.234.79.76) has joined #gentoo-talks
+2014-03-05 20:09:44	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-05 20:09:44	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:01
+2014-03-05 20:09:44	--	Channel #gentoo-talks: 17 nicks (2 ops, 0 voices, 15 normals)
+2014-03-05 20:09:54	--	Mode #gentoo-talks [+Ccnst]
+2014-03-05 20:09:54	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-05 20:49:50	<--	loz (~maxvel@31.28.10.150) has quit (Ping timeout: 240 seconds)
+2014-03-05 20:49:57	-->	l29ah (~l29ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-05 20:50:43	-->	loz (~maxvel@188.225.33.138) has joined #gentoo-talks
+2014-03-05 20:59:36	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-05 21:02:30	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-05 22:39:18	lexszero	сосед показал огроменный technical report, присланный из киевского рисерч центра, проаппрувленый неким Krivoruchko
+2014-03-05 22:39:47	lexszero	жаль, alxchk нету.
+2014-03-05 22:42:23	l29ah	http://images.stopgame.ru/uploads/images/304618/form/normal_1389969450.jpg
+2014-03-05 22:42:24	k0sh	img: jpeg:  700x933 px. 176.58 KB
+2014-03-05 22:44:19	lexszero	тульповод?
+2014-03-05 22:48:19	l29ah	где?
+2014-03-05 22:51:03	lexszero	↖ вот
+2014-03-05 22:51:34	l29ah	как определить?
+2014-03-05 22:52:36	lexszero	первый симптом - интерес к несуществующим тянкам.
+2014-03-05 22:53:46	l29ah	это не алгоритм
+2014-03-05 23:00:32	lexszero	это эвристика
+2014-03-05 23:01:22	l29ah	хуитистика
+2014-03-05 23:04:26	<--	govardhan_ (~fenriz@178.234.79.76) has quit (Quit: Om namo narayanaya)
+2014-03-05 23:05:36	--	Radjah is now known as Radjah|Away
+2014-03-05 23:13:57	--	Radjah|Away is now known as Radjah
+2014-03-05 23:15:31	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-05 23:44:17	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-05 23:50:35	<--	lexszero (~lexszero@jabber.spbu.ru) has left #gentoo-talks
+2014-03-05 23:53:54	--	Radjah is now known as Radjah|Away
+2014-03-06 00:03:44	--	irc: disconnected from server
+2014-03-06 19:03:22	-->	govardhan (~dasadasa_@178.234.136.204) has joined #gentoo-talks
+2014-03-06 19:03:22	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-06 19:03:22	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:01
+2014-03-06 19:03:22	--	Channel #gentoo-talks: 17 nicks (2 ops, 0 voices, 15 normals)
+2014-03-06 19:03:32	--	Mode #gentoo-talks [+Ccnst]
+2014-03-06 19:03:32	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-06 19:19:43	<--	l29ah (~l29ah@jabber.spbu.ru) has left #gentoo-talks
+2014-03-06 19:22:01	@dca	питер опять питер
+2014-03-06 19:49:38	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-06 20:04:50	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-06 20:12:56	-->	O01eg (~o01eg@213.87.131.88) has joined #gentoo-talks
+2014-03-06 20:13:02	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-06 20:14:16	-->	l29ah (~l29ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-06 20:21:35	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-06 20:27:22	--	irc: disconnected from server
+2014-03-07 17:56:10	-->	govardhan (~dasadasa_@178.234.136.75) has joined #gentoo-talks
+2014-03-07 17:56:10	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-07 17:56:10	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:01
+2014-03-07 17:56:10	--	Channel #gentoo-talks: 15 nicks (2 ops, 0 voices, 13 normals)
+2014-03-07 17:56:20	--	Mode #gentoo-talks [+Ccnst]
+2014-03-07 17:56:20	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-07 18:48:24	-->	l29ah (~l29ah@195.19.225.242) has joined #gentoo-talks
+2014-03-07 20:25:28	--	irc: disconnected from server
+2014-03-09 08:45:37	-->	govardhan (~dasadasa_@178.234.76.119) has joined #gentoo-talks
+2014-03-09 08:45:37	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-09 08:45:37	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:01
+2014-03-09 08:45:37	--	Channel #gentoo-talks: 16 nicks (2 ops, 0 voices, 14 normals)
+2014-03-09 08:45:43	--	Mode #gentoo-talks [+Ccnst]
+2014-03-09 08:45:43	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-09 10:50:53	<--	loz (~maxvel@188.225.33.138) has quit (Quit: Leaving.)
+2014-03-09 10:51:53	-->	loz (~maxvel@188.225.33.138) has joined #gentoo-talks
+2014-03-09 11:42:00	<--	O01eg (~o01eg@213.87.139.118) has quit (Quit: O01eg)
+2014-03-09 13:54:15	<--	l29ah_ (~l29ah_@jabber.spbu.ru) has left #gentoo-talks
+2014-03-09 13:58:15	nm0i	dca, новый альбом the big sleep in search of hades
+2014-03-09 15:32:50	-->	O01eg (~o01eg@213.87.129.61) has joined #gentoo-talks
+2014-03-09 16:12:04	-->	l29ah (~l29ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-09 17:10:24	--	irc: disconnected from server
+2014-03-09 17:10:50	-->	govardhana (~dasadasa_@178.234.161.152) has joined #gentoo-talks
+2014-03-09 17:10:50	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-09 17:10:50	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:01
+2014-03-09 17:10:50	--	Channel #gentoo-talks: 17 nicks (2 ops, 0 voices, 15 normals)
+2014-03-09 17:11:08	--	Mode #gentoo-talks [+Ccnst]
+2014-03-09 17:11:08	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-09 17:13:56	<--	govardhan (~dasadasa_@178.234.76.119) has quit (Ping timeout: 244 seconds)
+2014-03-09 18:03:02	-->	lionrouge (~persona@213-193-28-202.dyn.broadband.iskratelecom.ru) has joined #gentoo-talks
+2014-03-09 18:06:44	lionrouge	привет
+2014-03-09 18:06:56	lionrouge	этот канал как #gentoo или как #gentoo-chat?
+2014-03-09 18:08:59	l29ah	это канал как #urandom
+2014-03-09 19:23:14	<--	elemir (elemir@unaffiliated/elemir) has quit (Quit: Me0w)
+2014-03-09 19:23:14	<--	nm0i (nm0i@unaffiliated/nm0i) has quit (Quit: N0)
+2014-03-09 19:23:16	<--	k0sh (nullbot@me0w.net) has quit (Remote host closed the connection)
+2014-03-09 19:26:58	-->	elemir (elemir@unaffiliated/elemir) has joined #gentoo-talks
+2014-03-09 19:27:28	-->	nm0i (nm0i@unaffiliated/nm0i) has joined #gentoo-talks
+2014-03-09 19:44:43	-->	k0sh (nullbot@me0w.net) has joined #gentoo-talks
+2014-03-09 19:48:50	nm0i	Спустя 2 года я написал инит скрипт для k0sh'а.
+2014-03-09 19:49:36	nm0i	самые долгие 4 строчки что я когда-либо писал
+2014-03-09 20:14:23	<--	lionrouge (~persona@213-193-28-202.dyn.broadband.iskratelecom.ru) has quit (Quit: Leaving)
+2014-03-09 23:01:30	<--	l29ah (~l29ah@jabber.spbu.ru) has left #gentoo-talks
+2014-03-10 00:00:33	-->	ckorzhik (~user@95.71.31.249) has joined #gentoo-talks
+2014-03-10 00:34:05	--	Radjah is now known as Radjah|Away
+2014-03-10 00:57:42	--	irc: disconnected from server
+2014-03-11 19:09:52	-->	govardhan (~dasadasa_@178.234.130.212) has joined #gentoo-talks
+2014-03-11 19:09:52	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/GIO7y"
+2014-03-11 19:09:52	--	Topic set by dca (~dca@146.185.164.188) on Пнд, 03 Мар 2014 07:18:01
+2014-03-11 19:09:52	--	Channel #gentoo-talks: 15 nicks (2 ops, 0 voices, 13 normals)
+2014-03-11 19:09:58	--	Mode #gentoo-talks [+Ccnst]
+2014-03-11 19:09:58	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-11 19:32:21	-->	rynffoll` (~rynffoll@176.212.60.84) has joined #gentoo-talks
+2014-03-11 19:32:41	-->	l29ah (~l29ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-11 20:14:21	-->	O01eg (~o01eg@213.87.133.209) has joined #gentoo-talks
+2014-03-11 21:41:54	<--	rynffoll` (~rynffoll@176.212.60.84) has quit (Read error: Connection reset by peer)
+2014-03-11 21:43:06	-->	rynffoll` (~rynffoll@176.212.60.84) has joined #gentoo-talks
+2014-03-11 21:45:02	--	rynffoll` is now known as rynffoll
+2014-03-11 22:48:09	--	irc: disconnected from server
+2014-03-21 21:05:39	-->	govardhan (~dasadasa_@178.234.163.112) has joined #gentoo-talks
+2014-03-21 21:05:39	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/odHJJ"
+2014-03-21 21:05:39	--	Topic set by dca (~dca@146.185.164.188) on Чтв, 20 Мар 2014 18:36:03
+2014-03-21 21:05:39	--	Channel #gentoo-talks: 19 nicks (2 ops, 0 voices, 17 normals)
+2014-03-21 21:05:46	--	Mode #gentoo-talks [+Ccnst]
+2014-03-21 21:05:46	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-21 21:12:57	--	irc: disconnected from server
+2014-03-26 18:35:03	-->	govardhan (~dasadasa_@178.234.130.227) has joined #gentoo-talks
+2014-03-26 18:35:03	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/odHJJ"
+2014-03-26 18:35:03	--	Topic set by dca (~dca@146.185.164.188) on Чтв, 20 Мар 2014 18:36:03
+2014-03-26 18:35:03	--	Channel #gentoo-talks: 16 nicks (2 ops, 0 voices, 14 normals)
+2014-03-26 18:35:08	--	Mode #gentoo-talks [+Ccnst]
+2014-03-26 18:35:08	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-26 18:38:40	@dca	пруф или менеджером пакетов
+2014-03-26 19:34:29	-->	Gavardhana (~Govardhan@178.234.130.227) has joined #gentoo-talks
+2014-03-26 19:52:50	-->	L29Ah (~L29Ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-26 19:58:38	@dca	действительно, почему бы поттерингу не придумать свой манагер пакетов с несовместимым форматом?
+2014-03-26 19:59:17	lexszero	он называется pacman
+2014-03-26 19:59:36	lexszero	осталось сделать pacmand и готово.
+2014-03-26 20:06:08	<--	Gavardhana (~Govardhan@178.234.130.227) has quit (Remote host closed the connection)
+2014-03-26 20:14:23	nm0i	systemd-pacmand
+2014-03-26 20:16:19	@dca	почему рач столь яростно перешел на системд%
+2014-03-26 20:16:21	@dca	?
+2014-03-26 20:16:45	lexszero	потому что МОДНО ИННОВАЦИОННО
+2014-03-26 20:17:10	lexszero	читать как "рачешкольники тащат в хату все хайповое говнище"
+2014-03-26 20:18:55	-->	O01eg (~o01eg@77.232.158.119) has joined #gentoo-talks
+2014-03-26 20:51:50	nm0i	Зачем git если просто можно делать тарболлы.
+2014-03-26 20:52:00	--	Radjah is now known as Radjah|Away
+2014-03-26 20:57:07	lexszero	https://pp.vk.me/c620917/v620917593/eee/kMBDBNMNWOA.jpg
+2014-03-26 20:57:29	lexszero	*python *bicycle
+2014-03-26 20:57:41	--	Radjah|Away is now known as Radjah
+2014-03-26 22:48:31	--	irc: disconnected from server
+2014-03-27 20:16:05	-->	govardhana (~dasadasa_@178.234.145.56) has joined #gentoo-talks
+2014-03-27 20:16:05	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/odHJJ"
+2014-03-27 20:16:05	--	Topic set by dca (~dca@146.185.164.188) on Чтв, 20 Мар 2014 18:36:03
+2014-03-27 20:16:05	--	Channel #gentoo-talks: 17 nicks (2 ops, 0 voices, 15 normals)
+2014-03-27 20:16:11	--	Mode #gentoo-talks [+Ccnst]
+2014-03-27 20:16:11	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-27 20:22:45	-->	L29Ah (~L29Ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-03-27 20:53:40	--	irc: disconnected from server
+2014-03-27 20:54:06	-->	govardhana (~dasadasa_@178.234.172.188) has joined #gentoo-talks
+2014-03-27 20:54:06	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/odHJJ"
+2014-03-27 20:54:06	--	Topic set by dca (~dca@146.185.164.188) on Чтв, 20 Мар 2014 18:36:03
+2014-03-27 20:54:06	--	Channel #gentoo-talks: 18 nicks (2 ops, 0 voices, 16 normals)
+2014-03-27 20:54:26	--	Mode #gentoo-talks [+Ccnst]
+2014-03-27 20:54:26	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-27 21:42:47	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-03-27 22:01:25	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-03-27 22:14:31	<--	ckorzhik (~user@95.71.5.113) has quit (Ping timeout: 268 seconds)
+2014-03-27 22:38:33	--	irc: disconnected from server
+2014-03-29 09:25:24	-->	govardhana (~dasadasa_@178.234.67.25) has joined #gentoo-talks
+2014-03-29 09:25:24	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-03-29 09:25:24	--	Topic set by dca (~dca@146.185.164.188) on Птн, 28 Мар 2014 04:19:56
+2014-03-29 09:25:24	--	Channel #gentoo-talks: 16 nicks (2 ops, 0 voices, 14 normals)
+2014-03-29 09:25:30	--	Mode #gentoo-talks [+Ccnst]
+2014-03-29 09:25:30	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-03-29 10:00:29	<--	Stiletto (7f000001@173.237.198.74) has quit (Remote host closed the connection)
+2014-03-29 10:12:51	-->	ckorzhik (~user@95.71.47.76) has joined #gentoo-talks
+2014-03-29 10:51:38	--	irc: disconnected from server
+2014-04-01 22:05:44	-->	govardhana (~dasadasa_@178.234.75.147) has joined #gentoo-talks
+2014-04-01 22:05:44	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-04-01 22:05:44	--	Topic set by dca (~dca@146.185.164.188) on Птн, 28 Мар 2014 04:19:56
+2014-04-01 22:05:44	--	Channel #gentoo-talks: 16 nicks (2 ops, 0 voices, 14 normals)
+2014-04-01 22:05:50	--	Mode #gentoo-talks [+Ccnst]
+2014-04-01 22:05:50	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-04-01 22:12:06	-->	d_k (~dk@202.62.93.84) has joined #gentoo-talks
+2014-04-01 22:17:31	<--	d_k (~dk@202.62.93.84) has quit (Quit: d_k)
+2014-04-01 22:20:30	<--	lexszero (~lexszero@jabber.spbu.ru) has left #gentoo-talks
+2014-04-01 22:42:01	-->	ckorzhik (~user@46.72.48.61) has joined #gentoo-talks
+2014-04-01 22:44:22	ckorzhik	plhk_, а что ты пилишь сейчас?
+2014-04-01 22:45:10	ckorzhik	http://vk.com/wall784521_3187
+2014-04-01 22:45:12	k0sh	title: Wall | VK
+2014-04-01 22:45:57	ckorzhik	как видно из комментариев, встретился сегодня с этой штукой.
+2014-04-01 22:46:14	ckorzhik	*с одной из
+2014-04-01 22:46:17	-->	d_k (~dk@202.62.93.84) has joined #gentoo-talks
+2014-04-01 22:47:23	@dca	> http://vk.com/wall784521_3187
+2014-04-01 22:47:23	@dca	ебаная хуйня какая-то
+2014-04-01 22:47:25	k0sh	title: Wall | VK
+2014-04-01 22:48:09	ckorzhik	см последний комментарий.
+2014-04-01 22:48:42	ckorzhik	там про nearest neighbor в географии в mysql
+2014-04-01 22:49:10	@dca	зачем эти лишние сущности
+2014-04-01 22:49:22	@dca	твой хаверсин это квадртат синуса половинного угла
+2014-04-01 22:50:34	ckorzhik	для удобства (или неудобства - зачем запоминать лишнее)
+2014-04-01 22:54:58	@dca	ладно, я не специлист по гармоническим функциям
+2014-04-01 23:09:03	<--	d_k (~dk@202.62.93.84) has quit (Quit: d_k)
+2014-04-01 23:24:34	--	irc: disconnected from server
+2014-04-27 10:47:47	-->	govardhan (~dasadasa_@178.234.145.195) has joined #gentoo-talks
+2014-04-27 10:47:47	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-04-27 10:47:47	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-04-27 10:47:47	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-04-27 10:47:47	--	Notice(verne.freenode.net): [freenode-info] channel trolls and no channel staff around to help? please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+2014-04-27 10:47:53	--	Mode #gentoo-talks [+Ccnst]
+2014-04-27 10:47:53	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-04-27 12:02:08	--	irc: disconnected from server
+2014-04-27 12:02:34	-->	govardhan (~dasadasa_@178.234.69.136) has joined #gentoo-talks
+2014-04-27 12:02:34	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-04-27 12:02:34	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-04-27 12:02:34	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-04-27 12:02:54	--	Mode #gentoo-talks [+Ccnst]
+2014-04-27 12:02:54	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-04-27 13:02:20	<--	loz (~maxvel@188.225.33.138) has quit (Ping timeout: 276 seconds)
+2014-04-27 17:24:12	nm0i	Всех зобаню
+2014-04-27 17:24:24	L29Ah	зачем?
+2014-04-27 17:25:49	nm0i	Просто
+2014-04-27 21:51:45	-->	O01eg (~o01eg@31.132.138.137) has joined #gentoo-talks
+2014-04-27 22:36:09	--	Radjah is now known as Radjah|Away
+2014-04-27 22:54:48	-->	int0dh__ (~int0dh@178.71.125.83) has joined #gentoo-talks
+2014-04-27 22:57:27	<--	int0dh_ (~int0dh@95-55-28-31.dynamic.avangarddsl.ru) has quit (Ping timeout: 255 seconds)
+2014-04-27 23:39:19	--	irc: disconnected from server
+2014-05-02 15:38:51	-->	govardhana (~dasadasa_@178.234.168.144) has joined #gentoo-talks
+2014-05-02 15:38:51	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-02 15:38:51	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-02 15:38:51	--	Channel #gentoo-talks: 15 nicks (2 ops, 0 voices, 13 normals)
+2014-05-02 15:38:56	--	Mode #gentoo-talks [+Ccnst]
+2014-05-02 15:38:56	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-02 16:14:49	<--	govardhan (~fenriz@178.234.168.144) has quit (Quit: Om namo narayanaya)
+2014-05-02 16:37:37	<--	L29Ah (~L29Ah@jabber.spbu.ru) has left #gentoo-talks
+2014-05-02 18:12:20	--	Radjah|Away is now known as Radjah
+2014-05-02 19:07:08	--	irc: disconnected from server
+2014-05-02 19:07:32	-->	gavardhan (~dasadasa_@178.234.140.135) has joined #gentoo-talks
+2014-05-02 19:07:32	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-02 19:07:32	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-02 19:07:32	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-05-02 19:07:52	--	Mode #gentoo-talks [+Ccnst]
+2014-05-02 19:07:52	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-02 19:10:31	<--	govardhana (~dasadasa_@178.234.168.144) has quit (Ping timeout: 250 seconds)
+2014-05-02 19:19:48	-->	L29Ah (~L29Ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-05-02 21:23:02	<--	elemir (elemir@unaffiliated/elemir) has quit (Quit: Me0w)
+2014-05-02 21:23:03	<--	nm0i (nm0i@unaffiliated/nm0i) has quit (Quit: N0)
+2014-05-02 21:23:34	-->	elemir (elemir@unaffiliated/elemir) has joined #gentoo-talks
+2014-05-02 21:24:04	-->	nm0i (nm0i@unaffiliated/nm0i) has joined #gentoo-talks
+2014-05-02 22:42:57	--	irc: disconnected from server
+2014-05-02 22:43:21	-->	gavardhan (~dasadasa_@178.234.79.195) has joined #gentoo-talks
+2014-05-02 22:43:21	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-02 22:43:21	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-02 22:43:21	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-05-02 22:43:41	--	Mode #gentoo-talks [+Ccnst]
+2014-05-02 22:43:41	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-03 00:16:14	--	irc: disconnected from server
+2014-05-03 00:16:41	-->	gavardhan (~dasadasa_@178.234.78.172) has joined #gentoo-talks
+2014-05-03 00:16:41	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-03 00:16:41	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-03 00:16:41	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-05-03 00:16:59	--	Mode #gentoo-talks [+Ccnst]
+2014-05-03 00:16:59	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-03 01:00:34	--	irc: disconnected from server
+2014-05-03 01:00:57	-->	gavardhan (~dasadasa_@178.234.78.172) has joined #gentoo-talks
+2014-05-03 01:00:57	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-03 01:00:57	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-03 01:00:57	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-05-03 01:01:04	--	Radjah is now known as Radjah|Away
+2014-05-03 01:01:17	--	Mode #gentoo-talks [+Ccnst]
+2014-05-03 01:01:17	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-03 01:24:47	--	irc: disconnected from server
+2014-05-03 11:33:22	-->	govardhan (~dasadasa_@178.234.78.172) has joined #gentoo-talks
+2014-05-03 11:33:22	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-03 11:33:22	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-03 11:33:22	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-05-03 11:33:28	--	Mode #gentoo-talks [+Ccnst]
+2014-05-03 11:33:28	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-03 12:54:12	<--	L29Ah (~L29Ah@jabber.spbu.ru) has left #gentoo-talks
+2014-05-03 13:40:26	--	irc: disconnected from server
+2014-05-05 21:49:38	-->	govardhan (~dasadasa_@178.234.165.187) has joined #gentoo-talks
+2014-05-05 21:49:38	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-05 21:49:38	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-05 21:49:38	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-05-05 21:49:44	--	Mode #gentoo-talks [+Ccnst]
+2014-05-05 21:49:45	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-05 21:58:04	<--	lexszero (~lexszero@jabber.spbu.ru) has left #gentoo-talks
+2014-05-05 22:15:55	<--	L29Ah (~L29Ah@jabber.spbu.ru) has left #gentoo-talks
+2014-05-05 22:16:01	-->	L29Ah (~L29Ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-05-05 22:21:26	-->	ckorzhik (~user@46.72.6.77) has joined #gentoo-talks
+2014-05-05 23:09:20	--	irc: disconnected from server
+2014-05-07 22:33:40	-->	govardhan (~dasadasa_@178.234.69.75) has joined #gentoo-talks
+2014-05-07 22:33:41	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-07 22:33:41	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-07 22:33:41	--	Channel #gentoo-talks: 14 nicks (2 ops, 0 voices, 12 normals)
+2014-05-07 22:33:46	--	Mode #gentoo-talks [+Ccnst]
+2014-05-07 22:33:46	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-07 23:10:54	--	irc: disconnected from server
+2014-05-09 11:20:14	-->	govardhan (~dasadasa_@178.234.145.205) has joined #gentoo-talks
+2014-05-09 11:20:14	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-09 11:20:14	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-09 11:20:14	--	Channel #gentoo-talks: 12 nicks (2 ops, 0 voices, 10 normals)
+2014-05-09 11:20:20	--	Mode #gentoo-talks [+Ccnst]
+2014-05-09 11:20:20	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-09 12:14:23	--	mva_ is now known as mva
+2014-05-09 12:54:11	--	irc: disconnected from server
+2014-05-09 12:54:46	-->	govardhan (~dasadasa_@178.234.145.205) has joined #gentoo-talks
+2014-05-09 12:54:46	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-09 12:54:46	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-09 12:54:46	--	Channel #gentoo-talks: 11 nicks (2 ops, 0 voices, 9 normals)
+2014-05-09 12:55:24	--	Mode #gentoo-talks [+Ccnst]
+2014-05-09 12:55:24	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-09 13:35:35	--	irc: disconnected from server
+2014-05-09 13:38:22	-->	govardhan (~dasadasa_@178.234.145.205) has joined #gentoo-talks
+2014-05-09 13:38:22	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-09 13:38:22	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-09 13:38:22	--	Channel #gentoo-talks: 11 nicks (2 ops, 0 voices, 9 normals)
+2014-05-09 13:41:42	--	Mode #gentoo-talks [+Ccnst]
+2014-05-09 13:41:42	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-09 14:19:05	--	irc: disconnected from server
+2014-05-09 14:19:27	-->	govardhan (~dasadasa_@178.234.145.205) has joined #gentoo-talks
+2014-05-09 14:19:27	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-09 14:19:27	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-09 14:19:27	--	Channel #gentoo-talks: 11 nicks (2 ops, 0 voices, 9 normals)
+2014-05-09 14:19:47	--	Mode #gentoo-talks [+Ccnst]
+2014-05-09 14:19:47	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-10 00:21:28	--	irc: disconnected from server
+2014-05-10 07:49:46	-->	govardhan (~dasadasa_@178.234.145.205) has joined #gentoo-talks
+2014-05-10 07:49:46	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-10 07:49:46	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-10 07:49:46	--	Channel #gentoo-talks: 11 nicks (2 ops, 0 voices, 9 normals)
+2014-05-10 07:49:52	--	Mode #gentoo-talks [+Ccnst]
+2014-05-10 07:49:52	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-10 08:17:56	--	irc: disconnected from server
+2014-05-10 08:18:24	-->	govardhana (~dasadasa_@178.234.140.151) has joined #gentoo-talks
+2014-05-10 08:18:25	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-10 08:18:25	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-10 08:18:25	--	Channel #gentoo-talks: 12 nicks (2 ops, 0 voices, 10 normals)
+2014-05-10 08:18:42	--	Mode #gentoo-talks [+Ccnst]
+2014-05-10 08:18:43	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-10 08:21:10	<--	govardhan (~dasadasa_@178.234.145.205) has quit (Ping timeout: 252 seconds)
+2014-05-10 11:07:34	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 11:18:10	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-05-10 11:19:49	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 11:36:22	<--	govardhana (~dasadasa_@178.234.140.151) has quit (Ping timeout: 258 seconds)
+2014-05-10 11:36:22	--	irc: disconnected from server
+2014-05-10 11:36:50	-->	gavardhan (~dasadasa_@178.234.140.151) has joined #gentoo-talks
+2014-05-10 11:36:51	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-10 11:36:51	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-10 11:36:51	--	Channel #gentoo-talks: 13 nicks (2 ops, 0 voices, 11 normals)
+2014-05-10 11:37:08	--	Mode #gentoo-talks [+Ccnst]
+2014-05-10 11:37:09	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-10 11:45:56	<--	govardhana (~dasadasa_@178.234.140.151) has quit (Ping timeout: 258 seconds)
+2014-05-10 11:48:22	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-05-10 11:51:09	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 11:59:36	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-05-10 14:03:26	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 14:16:04	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-05-10 14:46:43	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 15:02:54	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-05-10 15:43:47	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 15:44:21	<--	d_k (~dk@89.223.45.51) has quit (Client Quit)
+2014-05-10 15:47:55	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 15:49:28	<--	d_k (~dk@89.223.45.51) has quit (Client Quit)
+2014-05-10 16:02:58	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 16:13:06	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-05-10 17:21:34	-->	L29Ah (~L29Ah@jabber.spbu.ru) has joined #gentoo-talks
+2014-05-10 18:09:45	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 18:33:18	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-05-10 19:28:53	--	Radjah|Away is now known as Radjah
+2014-05-10 19:47:59	--	irc: disconnected from server
+2014-05-10 19:48:23	-->	govardhan (~dasadasa_@178.234.140.151) has joined #gentoo-talks
+2014-05-10 19:48:23	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-10 19:48:23	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-10 19:48:23	--	Channel #gentoo-talks: 12 nicks (2 ops, 0 voices, 10 normals)
+2014-05-10 19:48:29	--	Mode #gentoo-talks [+Ccnst]
+2014-05-10 19:48:29	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-10 20:04:03	-->	d_k (~dk@89.223.45.51) has joined #gentoo-talks
+2014-05-10 20:25:47	-->	int0dh (~int0dh@178.71.113.35) has joined #gentoo-talks
+2014-05-10 22:45:12	@dca	plhk: афтар норм
+2014-05-10 22:45:39	@dca	только не бери с сухими дисковыми тормозами
+2014-05-10 22:45:42	@dca	говно ибо
+2014-05-10 22:46:19	<--	dca (~dca@146.185.164.188) has left #gentoo-talks ("ERC Version 5.3 (IRC client for Emacs)")
+2014-05-10 22:46:28	-->	dca (~dca@146.185.164.188) has joined #gentoo-talks
+2014-05-10 22:46:29	--	Mode #gentoo-talks [+o dca] by ChanServ
+2014-05-10 22:59:01	L29Ah	кто говно, ты говно ёпт
+2014-05-10 23:00:44	nm0i	Тормоза для трусов
+2014-05-10 23:01:22	L29Ah	(впрочем, у меня баттхёрт от механики на жопе; судя по всему из-за хуёвой рубашки, которая съедают дохуя хода)
+2014-05-10 23:15:41	@dca	я походу нашел причину почему на велосипеде передний тормоз подефолту слева.
+2014-05-10 23:16:05	@dca	потому что мотоблядь севшая на велик обязательно словит нихуевый хайсайд как только попробует им воспользоваться
+2014-05-10 23:30:31	L29Ah	:D
+2014-05-10 23:55:43	<--	d_k (~dk@89.223.45.51) has quit (Quit: d_k)
+2014-05-10 23:59:40	--	irc: disconnected from server
+2014-05-11 08:18:51	-->	govardhan (~dasadasa_@178.234.174.172) has joined #gentoo-talks
+2014-05-11 08:18:51	--	Topic for #gentoo-talks is "utf-8 ghetto || http://vpaste.net or die || lastlog: `nc me0w.net 9020` | `socat stdio tcp:me0w.net:9020` || Логи: по запросу, после справки от ФСБ || Специалисты по всему - только в gentoo-talks! || О конале : http://vpaste.net/Z6dU4"
+2014-05-11 08:18:51	--	Topic set by dca on Птн, 28 Мар 2014 04:19:56
+2014-05-11 08:18:51	--	Channel #gentoo-talks: 13 nicks (2 ops, 0 voices, 11 normals)
+2014-05-11 08:18:58	--	Mode #gentoo-talks [+Ccnst]
+2014-05-11 08:18:58	--	Channel created on Вск, 25 Дек 2011 20:31:31
+2014-05-11 08:23:41	-->	govardhan_ (~fenriz@178.234.174.172) has joined #gentoo-talks
+2014-05-11 09:12:41	<--	govardhan_ (~fenriz@178.234.174.172) has quit (Quit: Om namo narayanaya)
+2014-05-11 09:34:38	--	irc: disconnected from server

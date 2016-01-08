@@ -1,0 +1,707 @@
+2014-03-02 11:47:19	-->	govardhan (~dasadasa_@178.234.165.173) has joined #deadbeef-ru
+2014-03-02 11:47:19	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-02 11:47:19	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-02 11:47:19	--	Channel #deadbeef-ru: 9 nicks (0 ops, 0 voices, 9 normals)
+2014-03-02 11:47:23	--	Mode #deadbeef-ru [+nt]
+2014-03-02 11:47:23	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-02 11:58:23	-->	Vladgobelen (~Vladgobel@95.154.67.61) has joined #deadbeef-ru
+2014-03-02 12:09:55	--	irc: disconnected from server
+2014-03-02 12:10:14	-->	govardhan (~dasadasa_@178.234.165.173) has joined #deadbeef-ru
+2014-03-02 12:10:14	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-02 12:10:14	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-02 12:10:14	--	Channel #deadbeef-ru: 10 nicks (0 ops, 0 voices, 10 normals)
+2014-03-02 12:10:18	--	Mode #deadbeef-ru [+nt]
+2014-03-02 12:10:18	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-02 13:06:40	--	irc: disconnected from server
+2014-03-02 17:39:37	-->	govardhan (~dasadasa_@178.234.74.207) has joined #deadbeef-ru
+2014-03-02 17:39:37	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-02 17:39:37	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-02 17:39:37	--	Channel #deadbeef-ru: 9 nicks (1 op, 0 voices, 8 normals)
+2014-03-02 17:39:41	--	Mode #deadbeef-ru [+nt]
+2014-03-02 17:39:41	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-02 18:26:58	-->	Argolics (~argo@95-25-174-82.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-02 18:31:59	-->	starws (~userid@128-68-132-47.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-02 19:39:01	-->	nordwind (~nordwind@93.81.236.40) has joined #deadbeef-ru
+2014-03-02 19:42:12	<--	nordwind (~nordwind@93.81.236.40) has quit (Remote host closed the connection)
+2014-03-02 19:42:47	-->	nordwind (~nordwind@93.81.236.40) has joined #deadbeef-ru
+2014-03-02 19:42:47	<--	nordwind (~nordwind@93.81.236.40) has quit (Client Quit)
+2014-03-02 19:43:17	-->	nordwind (~nordwind@93.81.236.40) has joined #deadbeef-ru
+2014-03-02 20:10:30	-->	govardhan_ (~fenriz@178.234.74.207) has joined #deadbeef-ru
+2014-03-02 20:40:55	zloidemon	waker: А ты смотрел еще на OSS?
+2014-03-02 21:05:37	-->	argo (~argo@95-25-182-183.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-02 21:06:24	<--	Argolics (~argo@95-25-174-82.broadband.corbina.ru) has quit (Ping timeout: 264 seconds)
+2014-03-02 21:50:49	--	irc: disconnected from server
+2014-03-02 21:51:14	-->	govardhan (~dasadasa_@178.234.167.242) has joined #deadbeef-ru
+2014-03-02 21:51:14	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-02 21:51:14	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-02 21:51:14	--	Channel #deadbeef-ru: 13 nicks (1 op, 0 voices, 12 normals)
+2014-03-02 21:51:36	--	Mode #deadbeef-ru [+nt]
+2014-03-02 21:51:36	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-02 22:09:52	<--	waker (~waker@2210ds1-brh.0.fullrate.dk) has quit (Quit: leaving)
+2014-03-02 22:52:22	--	irc: disconnected from server
+2014-03-02 22:52:44	-->	govardhan (~dasadasa_@178.234.135.213) has joined #deadbeef-ru
+2014-03-02 22:52:44	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-02 22:52:44	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-02 22:52:44	--	Channel #deadbeef-ru: 11 nicks (0 ops, 0 voices, 11 normals)
+2014-03-02 22:53:06	--	Mode #deadbeef-ru [+nt]
+2014-03-02 22:53:06	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-02 22:55:41	-->	roentgen (~irc@openvpn/community/support/roentgen) has joined #deadbeef-ru
+2014-03-02 23:08:15	--	irc: disconnected from server
+2014-03-03 19:23:24	-->	govardhan (~dasadasa_@178.234.130.183) has joined #deadbeef-ru
+2014-03-03 19:23:24	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-03 19:23:24	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-03 19:23:24	--	Channel #deadbeef-ru: 12 nicks (1 op, 0 voices, 11 normals)
+2014-03-03 19:23:29	--	Mode #deadbeef-ru [+nt]
+2014-03-03 19:23:29	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-03 19:58:38	<--	waker (~waker@62.116.219.97) has quit (Ping timeout: 252 seconds)
+2014-03-03 20:00:32	-->	waker (~waker@2210ds1-brh.0.fullrate.dk) has joined #deadbeef-ru
+2014-03-03 20:00:32	--	Mode #deadbeef-ru [+o waker] by ChanServ
+2014-03-03 20:01:37	<--	nordwind (~nordwind@93.81.236.40) has quit (Quit: *)
+2014-03-03 20:01:56	-->	nordwind (~nordwind@93.81.236.40) has joined #deadbeef-ru
+2014-03-03 20:22:21	<--	Vladgobelen (~Vladgobel@95.154.67.61) has quit (Ping timeout: 252 seconds)
+2014-03-03 20:22:31	-->	Vladgobelen (~Vladgobel@95.154.67.61) has joined #deadbeef-ru
+2014-03-03 20:54:20	<--	sakal (~quassel@176.192.69.66) has quit (Read error: Operation timed out)
+2014-03-03 21:16:34	--	irc: disconnected from server
+2014-03-03 21:17:01	-->	govardhan (~dasadasa_@178.234.76.205) has joined #deadbeef-ru
+2014-03-03 21:17:01	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-03 21:17:01	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-03 21:17:01	--	Channel #deadbeef-ru: 11 nicks (1 op, 0 voices, 10 normals)
+2014-03-03 21:17:25	--	Mode #deadbeef-ru [+nt]
+2014-03-03 21:17:25	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-03 23:29:51	--	irc: disconnected from server
+2014-03-04 19:02:40	-->	govardhan (~dasadasa_@178.234.169.123) has joined #deadbeef-ru
+2014-03-04 19:02:40	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-04 19:02:40	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-04 19:02:40	--	Channel #deadbeef-ru: 12 nicks (1 op, 0 voices, 11 normals)
+2014-03-04 19:02:47	--	Mode #deadbeef-ru [+nt]
+2014-03-04 19:02:47	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-04 19:18:22	@waker	starws, которая?
+2014-03-04 19:19:13	starws	на гитхабе, ты же там собирал этот бинарь
+2014-03-04 19:19:28	@waker	deadbeef-plugin-builder?
+2014-03-04 19:19:45	@waker	я его сделал позже, чем сделал последний билд ddb
+2014-03-04 19:19:50	starws	нет, ты же и сам плеер теперь там собираешь
+2014-03-04 19:19:56	@waker	нет
+2014-03-04 19:20:14	@waker	система сборки та же, все то же
+2014-03-04 19:20:30	starws	тогда как мог отвалиться sndfile ?
+2014-03-04 19:20:37	@waker	опечатка в configure.ac
+2014-03-04 19:23:26	--	irc: disconnected from server
+2014-03-04 19:23:49	-->	govardhan (~dasadasa_@178.234.169.123) has joined #deadbeef-ru
+2014-03-04 19:23:49	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-04 19:23:49	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-04 19:23:49	--	Channel #deadbeef-ru: 12 nicks (1 op, 0 voices, 11 normals)
+2014-03-04 19:23:52	--	Mode #deadbeef-ru [+nt]
+2014-03-04 19:23:52	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-04 19:27:43	@waker	на 64битах gtk3ui работает
+2014-03-04 19:28:06	@waker	на i686 тож работает
+2014-03-04 19:28:18	starws	ты берёшь последний статик из даунлодс?
+2014-03-04 19:28:26	@waker	а не, стоп. почему-то gtk2 запустился
+2014-03-04 19:28:48	@waker	ну да, у меня же 32битный gtk3 не установлен
+2014-03-04 19:29:12	@waker	starws, я беру последний статик из сборочной папки, он тот же самый что в даунлоадс
+2014-03-04 19:29:18	starws	могу проверить на 64битах
+2014-03-04 19:29:19	@waker	я не удалял после сборки
+2014-03-04 19:29:24	@waker	на 64 я уже проверил - работает
+2014-03-04 19:30:36	@waker	вобщем, придется ставить 32битный gtk3 и делать bisect
+2014-03-04 19:31:09	@waker	возможно, дело в исправлении той херни для freebsd
+2014-03-04 19:31:16	@waker	g_thread_init
+2014-03-04 19:31:21	starws	проще посмотреть другие статики, они же часто выходили в последнее время
+2014-03-04 19:31:26	@waker	пока это единственное что приходит в голову
+2014-03-04 19:32:14	@waker	starws, можно еще взять статик транка: https://drone.io/github.com/Alexey-Yakovenko/deadbeef/files
+2014-03-04 19:40:55	starws	-3 работает, -4 уже падает
+2014-03-04 19:44:37	@waker	между 3 и 4 было много коммитов
+2014-03-04 19:45:24	starws	там была куча фиксов билд-системы
+2014-03-04 19:46:29	@waker	угу
+2014-03-04 19:46:53	@waker	но сегфолт врядли будет вызван изменением билд системы
+2014-03-04 19:46:58	@waker	наверняка дело в коде
+2014-03-04 19:48:49	starws	а тред_инит ты вроде ревертил
+2014-03-04 19:49:38	@waker	да, точно.. он только на freebsd и есть..
+2014-03-04 19:51:00	starws	транк точно так же валится
+2014-03-04 19:51:26	@waker	starws, только что установил gtk3, и запустил билд
+2014-03-04 19:51:30	@waker	и он работает
+2014-03-04 19:51:31	@waker	не падает
+2014-03-04 19:51:59	starws	чудо!
+2014-03-04 19:52:19	@waker	это я про i686
+2014-03-04 19:52:36	starws	я понимаю, но сказать пока ничего не могу
+2014-03-04 19:52:47	@waker	но я проверяю на 64битной убунте
+2014-03-04 19:53:16	starws	а я на 32-битном дебиане и 32-битном арче
+2014-03-04 19:53:21	@waker	щас запускаю 32 битную в виртуалке
+2014-03-04 19:53:31	@waker	32битных арчей и дебианов нет установленных
+2014-03-04 19:53:51	@waker	starws, а обычный non-static билд работает?
+2014-03-04 19:53:52	starws	раз и там и там, то дело не в дистре, имхо
+2014-03-04 19:54:03	@waker	ну это как раз не факт
+2014-03-04 19:54:07	@waker	зависит от версии gtk
+2014-03-04 19:54:08	starws	обычный я откуда возьму? собирать надо
+2014-03-04 19:54:17	@waker	например, на арче + gtk3.10.0 ddb падает абсолютно всегда
+2014-03-04 19:54:21	@waker	и тут ничего не поделать
+2014-03-04 19:54:32	@waker	" обычный я откуда возьму?" в арче есть в репах
+2014-03-04 19:54:52	starws	точно, туплю
+2014-03-04 19:54:56	-->	waker_ (~waker@2210ds1-brh.0.fullrate.dk) has joined #deadbeef-ru
+2014-03-04 19:54:57	@waker	а, ну да. там же не та версия
+2014-03-04 19:55:03	@waker	starws, только собирать
+2014-03-04 19:55:23	starws	да, там же старая релизная
+2014-03-04 19:55:49	starws	пойду в убунте-64 погляжу
+2014-03-04 19:58:15	@waker	starws, убунта 12.04 i686: опять же, все работает
+2014-03-04 19:58:37	<--	waker_ (~waker@2210ds1-brh.0.fullrate.dk) has quit (Remote host closed the connection)
+2014-03-04 19:58:43	@waker	похоже что дело таки либо в дистре, либо в версии gtk
+2014-03-04 19:58:50	@waker	или я что-то не догоняю
+2014-03-04 19:59:48	starws	12.04 у меня есть! сейчас проверим
+2014-03-04 20:04:39	@waker	единственное изменение, которое я нашел, которое могло повлиять на gtk3 -- это то что я либы gtk3 пострипал, для экономии места
+2014-03-04 20:04:53	@waker	больше ниче найти не могу :(
+2014-03-04 20:05:53	@waker	ты уверен что в твоем арче не gtk3.10.0?
+2014-03-04 20:06:25	@waker	ну и в дебиане тожа.. или может очередной gtk поломали. не, блин, но как же тогда другая версия ddb работает...
+2014-03-04 20:06:56	starws	так, гтк2 запускается, но в логе куча говна про atk, раньше такого не было
+2014-03-04 20:08:05	starws	а гтк3 работает  О_О
+2014-03-04 20:08:16	starws	даже ошибок не видно
+2014-03-04 20:08:22	@waker	угу, у меня тоже
+2014-03-04 20:08:30	@waker	у меня и gtk2 вроде без ошибок взлетел
+2014-03-04 20:09:35	starws	простыня glib-gobject-warning
+2014-03-04 20:09:35	starws	на gtk2
+2014-03-04 20:09:44	starws	огромная
+2014-03-04 20:10:33	@waker	каких именно?
+2014-03-04 20:12:05	@waker	starws, какая версия гтк не глянул?
+2014-03-04 20:13:53	starws	2.24.10\3.4.2   на убунте
+2014-03-04 20:14:05	@waker	да блин. на убунте же работает!
+2014-03-04 20:14:11	@waker	интересно какая версия там где _не_ работает
+2014-03-04 20:14:29	starws	они разные, как ты понимаешь
+2014-03-04 20:14:53	@waker	вот и интересует какие
+2014-03-04 20:14:58	@waker	нужно выявить закономерность
+2014-03-04 20:15:01	@waker	хоть какую-то
+2014-03-04 20:15:38	starws	я и занимаюсь, но всё медленно, ибо виртуалки
+2014-03-04 20:15:39	@waker	но я склоняюсь к мысли, что дело в том что я криво стрипнул gtk3
+2014-03-04 20:16:48	@waker	думаю, если вынести gtk3/i686 из staticdeps, и заново его пересобрать -- должно все пофикситься
+2014-03-04 20:20:55	starws	дебиан 2.24.10/3.4.2, такие же версии. но валится
+2014-03-04 20:32:01	@waker	вобщем, я уже начал пересобирать gtk
+2014-03-04 20:32:07	@waker	соберу новый билд - увидим
+2014-03-04 20:35:10	<--	sakal (~quassel@176.192.69.66) has quit (Ping timeout: 240 seconds)
+2014-03-04 20:44:41	<--	Vladgobelen (~Vladgobel@95.154.67.61) has quit (Ping timeout: 240 seconds)
+2014-03-04 21:53:18	<--	Astr0 (~Astr0@5.159.111.179) has quit (*.net *.split)
+2014-03-04 21:55:34	-->	Vladgobelen (~Vladgobel@95.154.67.61) has joined #deadbeef-ru
+2014-03-04 22:00:04	@waker	блин, все собрал, кроме gobject-introspection, который требует путхон, который я не могу установить
+2014-03-04 22:00:28	@waker	проблема такая же -- $ sudo apt-get install python-dev:i386
+2014-03-04 22:00:35	@waker	The following packages have unmet dependencies:
+2014-03-04 22:00:36	@waker	 python-dev:i386 : Depends: python:i386 (= 2.7.3-0ubuntu2.2) but it is not going to be installed
+2014-03-04 22:00:38	@waker	                   Depends: python2.7-dev:i386 (>= 2.7.3) but it is not going to be installed
+2014-03-04 22:00:41	@waker	E: Unable to correct problems, you have held broken packages.
+2014-03-04 22:01:35	@waker	вот на этом затыкается
+2014-03-04 22:01:37	@waker	Package mime-support:i386 is not available, but is referred to by another package.
+2014-03-04 22:01:41	@waker	This may mean that the package is missing, has been obsoleted, or
+2014-03-04 22:01:43	@waker	is only available from another source
+2014-03-04 22:01:46	@waker	E: Package 'mime-support:i386' has no installation candidate
+2014-03-04 22:05:11	@waker	о, gtk можно без этой дряни собрать!
+2014-03-04 22:05:12	@waker	ура
+2014-03-04 22:10:22	-->	Astr0 (~Astr0@5.159.111.179) has joined #deadbeef-ru
+2014-03-04 22:12:36	@waker	в убунте кривой пакет libxext6:i386, в нем нет симлинка libXext.so
+2014-03-04 22:12:42	@waker	ужос
+2014-03-04 22:39:53	argo	убунта вообще кривая, только щас заметил что ли
+2014-03-04 22:40:31	starws	о, бубунтухейтеры подтянулись
+2014-03-04 22:41:02	zloidemon	Не, убунта ок.
+2014-03-04 22:41:05	zloidemon	Я ей пользуюсь
+2014-03-04 22:45:25	@waker	argo, ну смотря в чем
+2014-03-04 22:45:34	@waker	в большинстве дистров и этого нету
+2014-03-04 22:45:59	@waker	например, в арче вообще (когда я им пользовался) нельзя было в 64 битную систему поставить _произвольные_ 32битные пакеты
+2014-03-04 22:46:26	@waker	это вообще, насколько я знаю, относительно недавно (года с 2012) стало более-менее работать в убунте и дебиане
+2014-03-04 22:54:24	@waker	вобщем, обломался с кросскомпильнуть gtk под 32 бита.
+2014-03-04 22:54:37	@waker	оказывается, glib криво компиляется, и делает некоторые типы неправильного размера
+2014-03-04 22:54:43	@waker	щас в виртуалке буду пересобирать
+2014-03-04 23:08:24	<--	argo (~argo@95-25-182-183.broadband.corbina.ru) has quit (Quit: I Quit)
+2014-03-04 23:08:38	-->	argo (~argo@95-25-182-183.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-04 23:09:32	--	argo is now known as Argolics
+2014-03-04 23:10:15	<--	Argolics (~argo@95-25-182-183.broadband.corbina.ru) has quit (Client Quit)
+2014-03-04 23:10:28	-->	Argolics (~argo@95-25-182-183.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-04 23:38:47	--	irc: disconnected from server
+2014-03-05 20:09:44	-->	govardhan (~dasadasa_@178.234.79.76) has joined #deadbeef-ru
+2014-03-05 20:09:44	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-05 20:09:44	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-05 20:09:44	--	Channel #deadbeef-ru: 13 nicks (1 op, 0 voices, 12 normals)
+2014-03-05 20:09:48	--	Mode #deadbeef-ru [+nt]
+2014-03-05 20:09:48	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-05 20:13:02	Astr0	я все же спорт предпочел бы
+2014-03-05 20:14:06	Argolics	спорт или гтк? кошелёк или жизнь?
+2014-03-05 20:14:44	Argolics	спорт != качалке которая в свою очередь != занятиям в спортзале
+2014-03-05 20:15:09	Argolics	излишнее накачиванее мышц вообще штука вредная. как и отсутсиве номинальной нагрузки
+2014-03-05 20:15:42	Astr0	слова дрыща?)
+2014-03-05 20:15:44	starws	полезно только двигаться, фактически. остальное под вопросом
+2014-03-05 20:15:52	Argolics	^
+2014-03-05 20:16:19	Argolics	в идеале обычная ходьба - лучшее и универсальное оупражнение. просто его не продашь в спортзале и посоны не одобрят
+2014-03-05 20:16:37	starws	да, примерно так
+2014-03-05 20:16:49	Astr0	а если тусоватцо в спортзале и гонять в плеере английский?
+2014-03-05 20:16:54	starws	а ещё оно скучное
+2014-03-05 20:17:33	starws	поэтому я предпочитаю веселье, ака баскетбол. но там сразу обратная сторона - травмы
+2014-03-05 20:17:44	Argolics	зачем просто так тратить время с пециализированных местах 
+2014-03-05 20:18:04	Argolics	когда можно например пройтись по более-менее свежему воздуху
+2014-03-05 20:18:20	Argolics	http://botalex.livejournal.com/tag/fitness -- подробнее про нагрузку где-то здесь, кажется во втором посте из серии
+2014-03-05 20:18:28	Argolics	там же и про нормы
+2014-03-05 20:18:32	Astr0	я вообще за аэробные нагрузки, и если уж по воздуху - то бегать
+2014-03-05 20:18:48	Argolics	бегать норм, но некоторым не удаётся - жывот мешает :)
+2014-03-05 20:18:58	Astr0	просто посмотрел канал плюшевой бороды и заинтересовался
+2014-03-05 20:19:11	starws	и опять же бегать скучно
+2014-03-05 20:19:26	Astr0	да тебе все скучно %)
+2014-03-05 20:19:32	Argolics	да все рутинные занятия скучны
+2014-03-05 20:19:50	Argolics	жизнь вообще состоит из повторений чуть более чем полностью - в том или ином виде
+2014-03-05 20:19:52	Argolics	и что дальше
+2014-03-05 20:19:59	Argolics	чуть менее*
+2014-03-05 20:20:20	Astr0	я бегаю по утрам и никакого живота в помине нет
+2014-03-05 20:20:22	starws	Argolics: упал -- отжался!!!
+2014-03-05 20:20:34	Argolics	баюс-баюс
+2014-03-05 20:20:35	Argolics	ой
+2014-03-05 20:21:20	Astr0	ноги тока болят иногда 
+2014-03-05 20:21:23	Astr0	:E
+2014-03-05 20:22:05	Astr0	ну это плоскостопие, чо
+2014-03-05 20:22:09	Argolics	тут надо индивидуально смотреть
+2014-03-05 20:23:08	starws	Astr0: откуда плоскостопие? лишний вес? стоячая работа?
+2014-03-05 20:23:11	Argolics	может индекс массы тела всё же высоковат, или нагрузка великовата или просто мышцы болят - оно не страшно
+2014-03-05 20:23:23	Argolics	хотя может и не поэтому
+2014-03-05 20:25:36	starws	http://www.ferra.ru/ru/mobile/news/2014/03/05/Samsung-Galaxy-S5-subscribe/   ---- прекрасно. железку за 250уе продают за 830
+2014-03-05 20:26:11	Argolics	на первых продажах навариваются очень сильно
+2014-03-05 20:26:42	Argolics	а за такие деньги можно собрать нормальную машинку
+2014-03-05 20:26:44	Argolics	>_>
+2014-03-05 21:06:39	<--	nordwind (~nordwind@93.81.236.40) has quit (Quit: *)
+2014-03-05 21:21:13	<--	waker (~waker@62.116.219.97) has quit (Remote host closed the connection)
+2014-03-05 21:22:46	-->	nordwind (~quassel@93.81.236.40) has joined #deadbeef-ru
+2014-03-05 21:26:11	<--	nordwind (~quassel@93.81.236.40) has quit (Remote host closed the connection)
+2014-03-05 21:50:07	-->	nordwind (~nordwind@93.81.236.40) has joined #deadbeef-ru
+2014-03-05 22:04:27	zloidemon	Бедные чуваки из ferra.ru,мне их жалко
+2014-03-05 22:04:33	zloidemon	Работают с долбаебами
+2014-03-05 23:04:26	<--	govardhan_ (~fenriz@178.234.79.76) has quit (Quit: Om namo narayanaya)
+2014-03-05 23:14:30	-->	sakal (~quassel@141.101.244.44.leadertelecom.ru) has joined #deadbeef-ru
+2014-03-05 23:15:24	<--	sakal_ (~quassel@141.101.138.140.leadertelecom.ru) has quit (Ping timeout: 264 seconds)
+2014-03-06 00:03:44	--	irc: disconnected from server
+2014-03-06 19:03:22	-->	govardhan (~dasadasa_@178.234.136.204) has joined #deadbeef-ru
+2014-03-06 19:03:22	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-06 19:03:22	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-06 19:03:22	--	Channel #deadbeef-ru: 10 nicks (1 op, 0 voices, 9 normals)
+2014-03-06 19:03:27	--	Mode #deadbeef-ru [+nt]
+2014-03-06 19:03:27	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-06 19:45:30	-->	starws (~userid@128-68-132-47.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-06 19:47:21	-->	newbie|4 (zlo@login.sin.nu) has joined #deadbeef-ru
+2014-03-06 20:23:15	<--	waker (~waker@62.116.219.97) has quit (Remote host closed the connection)
+2014-03-06 20:27:22	--	irc: disconnected from server
+2014-03-07 17:56:10	-->	govardhan (~dasadasa_@178.234.136.75) has joined #deadbeef-ru
+2014-03-07 17:56:10	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-07 17:56:10	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-07 17:56:10	--	Channel #deadbeef-ru: 8 nicks (1 op, 0 voices, 7 normals)
+2014-03-07 17:56:14	--	Mode #deadbeef-ru [+nt]
+2014-03-07 17:56:14	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-07 18:49:59	-->	starws (~userid@128-68-132-47.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-07 20:25:28	--	irc: disconnected from server
+2014-03-09 08:45:36	-->	govardhan (~dasadasa_@178.234.76.119) has joined #deadbeef-ru
+2014-03-09 08:45:36	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-09 08:45:36	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-09 08:45:36	--	Channel #deadbeef-ru: 8 nicks (0 ops, 0 voices, 8 normals)
+2014-03-09 08:45:39	--	Mode #deadbeef-ru [+nt]
+2014-03-09 08:45:39	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-09 09:13:52	<--	sakal_ (~quassel@141.101.139.30.leadertelecom.ru) has quit (Ping timeout: 265 seconds)
+2014-03-09 09:27:16	-->	Vampi (zlo@kvirc/user/Vampi) has joined #deadbeef-ru
+2014-03-09 09:27:16	--	Mode #deadbeef-ru [+v Vampi] by ChanServ
+2014-03-09 09:53:01	-->	sakal (~quassel@141.101.139.30.leadertelecom.ru) has joined #deadbeef-ru
+2014-03-09 10:09:34	-->	LightDiver (~Vladgobel@188.162.228.208) has joined #deadbeef-ru
+2014-03-09 10:11:04	<--	Vladgobelen (~Vladgobel@188.162.228.247) has quit (Ping timeout: 252 seconds)
+2014-03-09 11:51:58	<--	LightDiver (~Vladgobel@188.162.228.208) has quit (Ping timeout: 265 seconds)
+2014-03-09 12:35:12	-->	Vladgobelen (~Vladgobel@95.154.67.61) has joined #deadbeef-ru
+2014-03-09 13:11:35	<--	nordwind (~nordwind@93.81.236.40) has quit (Quit: *)
+2014-03-09 15:21:43	-->	waker (~waker@2210ds1-brh.0.fullrate.dk) has joined #deadbeef-ru
+2014-03-09 15:21:44	--	Mode #deadbeef-ru [+o waker] by ChanServ
+2014-03-09 17:10:24	--	irc: disconnected from server
+2014-03-09 17:10:47	-->	govardhana (~dasadasa_@178.234.161.152) has joined #deadbeef-ru
+2014-03-09 17:10:47	--	Channel #deadbeef-ru: 10 nicks (1 op, 1 voice, 8 normals)
+2014-03-09 17:11:04	--	Mode #deadbeef-ru [+nt]
+2014-03-09 17:11:04	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-09 17:13:56	<--	govardhan (~dasadasa_@178.234.76.119) has quit (Ping timeout: 244 seconds)
+2014-03-09 18:21:27	-->	thesame (~thesame@46.162.25.127) has joined #deadbeef-ru
+2014-03-09 18:21:27	--	Mode #deadbeef-ru [+o thesame] by ChanServ
+2014-03-09 19:16:55	@waker	\o/
+2014-03-09 19:17:01	@waker	я починил alsactl store/restore
+2014-03-09 19:17:06	@waker	нашел в чем были грабли
+2014-03-09 19:17:14	@waker	причем нашлось случайно
+2014-03-09 19:17:27	@waker	надо было поставить пульсу, чтобы опровергнуть баг про нерабочесть flac + 5.1
+2014-03-09 19:17:37	@waker	попытался установить -- apt-get сказал что она установлена
+2014-03-09 19:17:43	@waker	но при этом она была в нерабочем состоянии
+2014-03-09 19:17:50	@waker	не знаю, может что-то в конфигах наворотил
+2014-03-09 19:18:00	@waker	или просто отключил autospawn
+2014-03-09 19:18:12	@waker	короче, пульса все мьютила, даже несмотря на то что была сломана
+2014-03-09 19:18:34	@waker	а из-за того что она не запускалась -- я не знал что она установлена
+2014-03-09 19:18:46	@waker	вобщем, опроверг баг, снес пульсу - и все снова работает как следует
+2014-03-09 19:22:58	rekcuFniarB	У меня щас пульса, могу проверить что-то.
+2014-03-09 19:26:40	@waker	например?
+2014-03-09 19:31:44	rekcuFniarB	Ну вообще, если что :D
+2014-03-09 19:36:07	@waker	rekcuFniarB, ну если у тебя есть акустика 5.1 (или 7.1), то можешь пройтись по списку багов, там есть репорты что криво работает
+2014-03-09 19:36:17	@waker	было бы неплохо подтвердить или опровергнуть
+2014-03-09 19:36:34	@waker	проблема в том, что чел который все эти баги написал, похоже, лымарь, и не пишет как звук выводится
+2014-03-09 19:36:35	rekcuFniarB	Не, у меня стерео.
+2014-03-09 19:36:38	@waker	alsa/oss/pulse
+2014-03-09 19:36:40	@waker	а это важно
+2014-03-09 19:36:54	@waker	а так вроде ниче больше не надо
+2014-03-09 19:37:15	@waker	у меня тож стерео, + саб (автоматический, т.е. не 2.1)
+2014-03-09 19:37:34	@waker	хочу поменять на обычное стеорео, с нормальными колонками
+2014-03-09 19:37:42	@waker	ибо этот саб конкретно ненавижу
+2014-03-09 19:37:51	@waker	а отключить его нельзя
+2014-03-09 19:38:11	rekcuFniarB	На этот долбаный пульс пришлось перейти из-за VLC, там что-то сломали в выводе через alsa.
+2014-03-09 19:38:29	@waker	у тебя гента штоле?
+2014-03-09 19:38:36	rekcuFniarB	Убунта
+2014-03-09 19:38:42	@waker	14.04?
+2014-03-09 19:38:55	@waker	или ты ставишь распоследний vlc из ppa?
+2014-03-09 19:39:17	rekcuFniarB	13.04, но VLC из daily stable ppa от videolan
+2014-03-09 19:39:19	@waker	один ли хрен что они там сломали, если в убунту это прилетает с задержкой в года два, когда все давно пофиксили :0
+2014-03-09 19:39:34	@waker	а, ну тогда ссзб
+2014-03-09 19:39:53	@waker	daily/stable = /0
+2014-03-09 19:40:38	rekcuFniarB	А в старом vlc другие проблемы были (уже точно не помню, кажется, какие-то косяки с просмотром IPTV), из-за чего я и обновил его.
+2014-03-09 19:41:35	rekcuFniarB	А какая разница, скоро будет 14.04 и там уже новый vlc.
+2014-03-09 19:42:04	@waker	у жены 3 года стоял vlc 1.0.5 -- вот где все работает, в т.ч. iptv.
+2014-03-09 19:42:21	@waker	похоже что провайдеры iptv что-то в нем патчили
+2014-03-09 19:42:31	@waker	любая более поздняя версия не работает (речь о vlcplugin)
+2014-03-09 19:43:12	@waker	но свежие версии ff (начиная с 23, кажется) уже несовместимы с vlcplugin 1.0.5
+2014-03-09 19:43:45	@waker	поэтому теперь приходится запускать виндовый iptv client под wine. причем что смешно - есть линуксовый нативный. но он не компиляется даже
+2014-03-09 19:44:11	@waker	внутри говнокод ппц. я пытался пофиксить.
+2014-03-09 19:44:15	@waker	ниасилил
+2014-03-09 19:45:00	@waker	а еще у меня через одного из провайдеров iptv (rodnoe.tv) релизнули полную инфу - адрес, email, телефон, логин и пароль. в онлайн.
+2014-03-09 19:45:47	rekcuFniarB	в смысле релизнули?
+2014-03-09 19:45:59	@waker	всмысле, хакнули сервер, и слили базу юзеров
+2014-03-09 19:46:07	rekcuFniarB	o_O
+2014-03-09 19:46:11	@waker	а там адреса, пароли, телефоны и все остальное в plain text
+2014-03-09 19:46:56	@waker	причем, они еще и оплату хотели проводить напрямую, по номеру кредитки и CVV. но я выбрал алтернативный путь, через систему-посредника.
+2014-03-09 19:47:06	@waker	теперь радуюсь, иначе и кредитку бы слили
+2014-03-09 19:47:30	@waker	что интересно, инфу слили и выложили в инет через полгода как я перестал этим сервисом пользоваться
+2014-03-09 19:47:50	@waker	хорошо хоть хацкеры оказались добрые, и всем юзерам из базы прислали уведомление
+2014-03-09 19:47:56	@waker	так что я пароли везде поменял
+2014-03-09 19:48:01	rekcuFniarB	:D
+2014-03-09 20:55:34	@waker	ну че, ребяты, счастливо оставаццо, вернусь из Тая через 2 недели :)
+2014-03-09 21:10:55	rekcuFniarB	Удачи!
+2014-03-09 21:14:39	<--	waker (~waker@2210ds1-brh.0.fullrate.dk) has quit (Quit: leaving)
+2014-03-09 21:32:45	-->	starws (~userid@128-68-132-47.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-09 22:27:22	-->	dimidrol (~dimidrol@91.222.64.241) has joined #deadbeef-ru
+2014-03-09 22:49:31	<--	dimidrol (~dimidrol@91.222.64.241) has quit (K-Lined)
+2014-03-09 23:15:55	-->	sakal_ (~quassel@141.101.139.15.leadertelecom.ru) has joined #deadbeef-ru
+2014-03-09 23:17:48	<--	sakal (~quassel@141.101.139.30.leadertelecom.ru) has quit (Ping timeout: 240 seconds)
+2014-03-10 00:00:12	<--	starws (~userid@128-68-132-47.broadband.corbina.ru) has quit (Quit: I quit)
+2014-03-10 00:03:45	-->	communion (~communion@195.78.108.59) has joined #deadbeef-ru
+2014-03-10 00:32:46	<--	communion (~communion@195.78.108.59) has quit (Ping timeout: 264 seconds)
+2014-03-10 00:48:10	<--	thesame (~thesame@46.162.25.127) has quit (Quit: Leaving)
+2014-03-10 00:57:42	--	irc: disconnected from server
+2014-03-11 19:09:52	-->	govardhan (~dasadasa_@178.234.130.212) has joined #deadbeef-ru
+2014-03-11 19:09:52	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-11 19:09:52	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-11 19:09:52	--	Channel #deadbeef-ru: 8 nicks (0 ops, 1 voice, 7 normals)
+2014-03-11 19:09:54	--	Mode #deadbeef-ru [+nt]
+2014-03-11 19:09:54	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-11 19:15:45	-->	starws (~userid@128-68-132-47.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-11 19:18:51	Argolics	вэйкер на две недели уехал и не будет появляться в интернетах, я правильно понял?
+2014-03-11 19:20:29	Argolics	я просто что подумал - ему там постоянно пишут в ангрийский чят, у него бот/бнца есть? а то оно всё теряется, а может люди что-то важное/интересное сказали
+2014-03-11 19:25:04	starws	бота нет, насколько я знаю
+2014-03-11 19:25:19	starws	и да, вроде уехал
+2014-03-11 19:30:18	Argolics	ясно
+2014-03-11 20:28:14	<--	sakal (~quassel@176.192.69.66) has quit (Ping timeout: 240 seconds)
+2014-03-11 22:48:09	--	irc: disconnected from server
+2014-03-21 21:05:39	-->	govardhan (~dasadasa_@178.234.163.112) has joined #deadbeef-ru
+2014-03-21 21:05:39	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-21 21:05:39	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-21 21:05:39	--	Channel #deadbeef-ru: 7 nicks (0 ops, 1 voice, 6 normals)
+2014-03-21 21:05:42	--	Mode #deadbeef-ru [+nt]
+2014-03-21 21:05:42	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-21 21:12:57	--	irc: disconnected from server
+2014-03-26 18:35:02	-->	govardhan (~dasadasa_@178.234.130.227) has joined #deadbeef-ru
+2014-03-26 18:35:02	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-26 18:35:02	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-26 18:35:02	--	Channel #deadbeef-ru: 9 nicks (1 op, 1 voice, 7 normals)
+2014-03-26 18:35:02	--	Notice(holmes.freenode.net): [freenode-info] if you're at a conference and other people are having trouble connecting, please mention it to staff: http://freenode.net/faq.shtml#gettinghelp
+2014-03-26 18:35:04	--	Mode #deadbeef-ru [+nt]
+2014-03-26 18:35:04	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-26 19:06:51	<--	sakal (~quassel@79.104.38.38) has quit (Ping timeout: 264 seconds)
+2014-03-26 20:33:12	<--	waker (~waker@62.116.219.97) has quit (Remote host closed the connection)
+2014-03-26 21:10:00	-->	starws (~userid@89-178-50-157.broadband.corbina.ru) has joined #deadbeef-ru
+2014-03-26 21:28:27	<--	roentgen (~irc@openvpn/community/support/roentgen) has quit (Ping timeout: 264 seconds)
+2014-03-26 22:33:19	-->	sakal (~quassel@141.101.138.62.leadertelecom.ru) has joined #deadbeef-ru
+2014-03-26 22:48:31	--	irc: disconnected from server
+2014-03-27 20:16:05	-->	govardhana (~dasadasa_@178.234.145.56) has joined #deadbeef-ru
+2014-03-27 20:16:05	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-27 20:16:05	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-27 20:16:05	--	Channel #deadbeef-ru: 10 nicks (1 op, 1 voice, 8 normals)
+2014-03-27 20:16:07	--	Mode #deadbeef-ru [+nt]
+2014-03-27 20:16:07	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-27 20:53:40	--	irc: disconnected from server
+2014-03-27 20:54:06	-->	govardhana (~dasadasa_@178.234.172.188) has joined #deadbeef-ru
+2014-03-27 20:54:06	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-27 20:54:06	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-27 20:54:06	--	Channel #deadbeef-ru: 9 nicks (0 ops, 1 voice, 8 normals)
+2014-03-27 20:54:22	--	Mode #deadbeef-ru [+nt]
+2014-03-27 20:54:22	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-27 21:32:11	-->	waker (~waker@2210ds1-brh.0.fullrate.dk) has joined #deadbeef-ru
+2014-03-27 21:32:11	--	Mode #deadbeef-ru [+o waker] by ChanServ
+2014-03-27 21:50:25	<--	zloidemon (~zloidemon@89.218.9.68) has quit (Ping timeout: 245 seconds)
+2014-03-27 21:50:38	-->	zloidemon (~zloidemon@89.218.9.68) has joined #deadbeef-ru
+2014-03-27 22:38:33	--	irc: disconnected from server
+2014-03-29 09:25:23	-->	govardhana (~dasadasa_@178.234.67.25) has joined #deadbeef-ru
+2014-03-29 09:25:23	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-03-29 09:25:23	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-03-29 09:25:23	--	Channel #deadbeef-ru: 8 nicks (0 ops, 0 voices, 8 normals)
+2014-03-29 09:25:25	--	Mode #deadbeef-ru [+nt]
+2014-03-29 09:25:26	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-03-29 10:05:38	-->	sakal (~quassel@141.101.244.59.leadertelecom.ru) has joined #deadbeef-ru
+2014-03-29 10:08:55	<--	sakal_ (~quassel@141.101.244.12.leadertelecom.ru) has quit (Ping timeout: 265 seconds)
+2014-03-29 10:30:02	<--	Astr0 (~Astr0@5.159.111.179) has quit (Remote host closed the connection)
+2014-03-29 10:33:19	-->	Astr0 (~Astr0@5.159.111.179) has joined #deadbeef-ru
+2014-03-29 10:51:38	--	irc: disconnected from server
+2014-04-01 22:05:44	-->	govardhana (~dasadasa_@178.234.75.147) has joined #deadbeef-ru
+2014-04-01 22:05:44	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-04-01 22:05:44	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-04-01 22:05:44	--	Channel #deadbeef-ru: 10 nicks (1 op, 1 voice, 8 normals)
+2014-04-01 22:05:46	--	Mode #deadbeef-ru [+nt]
+2014-04-01 22:05:46	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-04-01 23:24:34	--	irc: disconnected from server
+2014-04-27 10:47:47	-->	govardhan (~dasadasa_@178.234.145.195) has joined #deadbeef-ru
+2014-04-27 10:47:47	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-04-27 10:47:47	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-04-27 10:47:47	--	Channel #deadbeef-ru: 8 nicks (0 ops, 1 voice, 7 normals)
+2014-04-27 10:47:49	--	Mode #deadbeef-ru [+nt]
+2014-04-27 10:47:49	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-04-27 10:59:16	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 10:59:16	<--	VQV (~q@95.154.69.18) has quit (Client Quit)
+2014-04-27 11:24:54	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 12:02:08	--	irc: disconnected from server
+2014-04-27 12:02:33	-->	govardhan (~dasadasa_@178.234.69.136) has joined #deadbeef-ru
+2014-04-27 12:02:33	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-04-27 12:02:33	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-04-27 12:02:33	--	Channel #deadbeef-ru: 9 nicks (0 ops, 1 voice, 8 normals)
+2014-04-27 12:02:33	--	Notice(asimov.freenode.net): [freenode-info] please register your nickname...don't forget to auto-identify! http://freenode.net/faq.shtml#nicksetup
+2014-04-27 12:02:50	--	Mode #deadbeef-ru [+nt]
+2014-04-27 12:02:50	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-04-27 12:48:16	-->	nordwind (~nordwind@93.81.236.40) has joined #deadbeef-ru
+2014-04-27 13:24:53	<--	VQV (~q@95.154.69.18) has quit (Quit: VQV)
+2014-04-27 13:29:38	-->	waker (~waker@2210ds1-brh.0.fullrate.dk) has joined #deadbeef-ru
+2014-04-27 13:29:38	--	Mode #deadbeef-ru [+o waker] by ChanServ
+2014-04-27 13:38:21	-->	thesame (~thesame@46.162.25.127) has joined #deadbeef-ru
+2014-04-27 13:38:21	--	Mode #deadbeef-ru [+o thesame] by ChanServ
+2014-04-27 13:42:04	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 13:47:14	<--	nordwind (~nordwind@93.81.236.40) has quit (Ping timeout: 240 seconds)
+2014-04-27 13:52:18	<--	Astr0 (~Astr0@5.159.111.179) has quit (Ping timeout: 246 seconds)
+2014-04-27 13:53:12	-->	Astr0 (~Astr0@5.159.111.179) has joined #deadbeef-ru
+2014-04-27 14:37:09	<--	VQV (~q@95.154.69.18) has quit (Quit: VQV)
+2014-04-27 15:19:02	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 15:19:07	<--	VQV (~q@95.154.69.18) has quit (Client Quit)
+2014-04-27 15:19:21	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 15:20:13	<--	VQV (~q@95.154.69.18) has quit (Client Quit)
+2014-04-27 15:23:28	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 15:30:19	<--	VQV (~q@95.154.69.18) has quit (Quit: VQV)
+2014-04-27 15:42:26	<--	waker (~waker@2210ds1-brh.0.fullrate.dk) has quit (Remote host closed the connection)
+2014-04-27 16:02:58	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 16:07:32	<--	VQV (~q@95.154.69.18) has quit (Client Quit)
+2014-04-27 16:07:54	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 16:13:35	<--	VQV (~q@95.154.69.18) has quit (Quit: VQV)
+2014-04-27 16:13:53	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 16:18:56	<--	VQV (~q@95.154.69.18) has quit (Quit: VQV)
+2014-04-27 16:20:02	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 17:06:05	<--	VQV (~q@95.154.69.18) has quit (Ping timeout: 276 seconds)
+2014-04-27 17:21:16	-->	VQV (~q@95.154.69.18) has joined #deadbeef-ru
+2014-04-27 18:22:02	<--	starws (~userid@95-27-245-99.broadband.corbina.ru) has quit (Quit: I quit)
+2014-04-27 19:57:48	-->	waker (~waker@2210ds1-brh.0.fullrate.dk) has joined #deadbeef-ru
+2014-04-27 19:57:49	--	Mode #deadbeef-ru [+o waker] by ChanServ
+2014-04-27 20:32:02	-->	starws (~userid@95-27-245-99.broadband.corbina.ru) has joined #deadbeef-ru
+2014-04-27 22:11:13	<--	Vampi (zlo@kvirc/user/Vampi) has quit (Ping timeout: 245 seconds)
+2014-04-27 23:24:09	<--	VQV (~q@95.154.69.18) has quit (Quit: VQV)
+2014-04-27 23:39:19	--	irc: disconnected from server
+2014-05-02 15:38:50	-->	govardhana (~dasadasa_@178.234.168.144) has joined #deadbeef-ru
+2014-05-02 15:38:50	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-02 15:38:50	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-02 15:38:50	--	Channel #deadbeef-ru: 9 nicks (2 ops, 1 voice, 6 normals)
+2014-05-02 15:38:52	--	Mode #deadbeef-ru [+nt]
+2014-05-02 15:38:52	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-02 16:14:49	<--	govardhan (~fenriz@178.234.168.144) has quit (Quit: Om namo narayanaya)
+2014-05-02 18:16:12	-->	starws (~userid@95-27-245-99.broadband.corbina.ru) has joined #deadbeef-ru
+2014-05-02 19:07:08	--	irc: disconnected from server
+2014-05-02 19:07:31	-->	gavardhan (~dasadasa_@178.234.140.135) has joined #deadbeef-ru
+2014-05-02 19:07:31	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-02 19:07:31	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-02 19:07:31	--	Channel #deadbeef-ru: 10 nicks (2 ops, 1 voice, 7 normals)
+2014-05-02 19:07:48	--	Mode #deadbeef-ru [+nt]
+2014-05-02 19:07:48	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-02 19:10:31	<--	govardhana (~dasadasa_@178.234.168.144) has quit (Ping timeout: 250 seconds)
+2014-05-02 19:24:40	-->	nordwind (~nordwind@93.81.236.40) has joined #deadbeef-ru
+2014-05-02 19:27:10	<--	waker (~waker@62.116.219.97) has quit (Ping timeout: 252 seconds)
+2014-05-02 20:33:56	-->	rekcuFniarB (~rekcuFnia@dyn-41-198.fttbee.kis.ru) has joined #deadbeef-ru
+2014-05-02 21:19:58	-->	roentgen (~irc@openvpn/community/support/roentgen) has joined #deadbeef-ru
+2014-05-02 22:42:57	--	irc: disconnected from server
+2014-05-02 22:43:21	-->	gavardhan (~dasadasa_@178.234.79.195) has joined #deadbeef-ru
+2014-05-02 22:43:21	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-02 22:43:21	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-02 22:43:21	--	Channel #deadbeef-ru: 11 nicks (2 ops, 1 voice, 8 normals)
+2014-05-02 22:43:37	--	Mode #deadbeef-ru [+nt]
+2014-05-02 22:43:37	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-02 23:41:17	<--	Vampi (zlo@kvirc/user/Vampi) has quit (Ping timeout: 252 seconds)
+2014-05-02 23:55:37	<--	starws (~userid@95-27-245-99.broadband.corbina.ru) has quit (Quit: I quit)
+2014-05-03 00:16:14	--	irc: disconnected from server
+2014-05-03 00:16:39	-->	gavardhan (~dasadasa_@178.234.78.172) has joined #deadbeef-ru
+2014-05-03 00:16:39	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-03 00:16:39	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-03 00:16:39	--	Channel #deadbeef-ru: 9 nicks (2 ops, 0 voices, 7 normals)
+2014-05-03 00:16:55	--	Mode #deadbeef-ru [+nt]
+2014-05-03 00:16:55	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-03 00:27:07	@waker	в убунте 14.04 в ddb отвалились хоткеи. совсем.
+2014-05-03 00:27:10	@waker	:(
+2014-05-03 00:31:45	Argolics	http://habrahabr.ru/post/221603/ гугл любит вас
+2014-05-03 01:00:34	--	irc: disconnected from server
+2014-05-03 01:00:57	-->	gavardhan (~dasadasa_@178.234.78.172) has joined #deadbeef-ru
+2014-05-03 01:00:57	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-03 01:00:57	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-03 01:00:57	--	Channel #deadbeef-ru: 9 nicks (2 ops, 0 voices, 7 normals)
+2014-05-03 01:01:13	--	Mode #deadbeef-ru [+nt]
+2014-05-03 01:01:13	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-03 01:24:47	--	irc: disconnected from server
+2014-05-03 11:33:22	-->	govardhan (~dasadasa_@178.234.78.172) has joined #deadbeef-ru
+2014-05-03 11:33:22	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-03 11:33:22	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-03 11:33:22	--	Channel #deadbeef-ru: 10 nicks (1 op, 1 voice, 8 normals)
+2014-05-03 11:33:24	--	Mode #deadbeef-ru [+nt]
+2014-05-03 11:33:24	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-03 12:04:25	<--	Argolics (~argo@128-72-39-19.broadband.corbina.ru) has quit (*.net *.split)
+2014-05-03 12:04:35	<--	thesame (~thesame@109.254.7.136) has quit (*.net *.split)
+2014-05-03 12:06:48	-->	Argolics (~argo@128-72-39-19.broadband.corbina.ru) has joined #deadbeef-ru
+2014-05-03 12:09:39	<--	nordwind (~nordwind@93.81.236.40) has quit (Remote host closed the connection)
+2014-05-03 12:11:45	-->	thesame (~thesame@109.254.7.136) has joined #deadbeef-ru
+2014-05-03 12:11:45	--	Mode #deadbeef-ru [+o thesame] by leguin.freenode.net
+2014-05-03 13:40:26	--	irc: disconnected from server
+2014-05-05 21:49:38	-->	govardhan (~dasadasa_@178.234.165.187) has joined #deadbeef-ru
+2014-05-05 21:49:38	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-05 21:49:38	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-05 21:49:38	--	Channel #deadbeef-ru: 7 nicks (1 op, 1 voice, 5 normals)
+2014-05-05 21:49:40	--	Mode #deadbeef-ru [+nt]
+2014-05-05 21:49:41	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-05 23:09:20	--	irc: disconnected from server
+2014-05-07 22:33:40	-->	govardhan (~dasadasa_@178.234.69.75) has joined #deadbeef-ru
+2014-05-07 22:33:40	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-07 22:33:40	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-07 22:33:40	--	Channel #deadbeef-ru: 8 nicks (1 op, 1 voice, 6 normals)
+2014-05-07 22:33:42	--	Mode #deadbeef-ru [+nt]
+2014-05-07 22:33:42	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-07 22:36:18	<--	starws (~userid@89-178-28-99.broadband.corbina.ru) has quit (Quit: I quit)
+2014-05-07 23:10:54	--	irc: disconnected from server
+2014-05-09 11:20:14	-->	govardhan (~dasadasa_@178.234.145.205) has joined #deadbeef-ru
+2014-05-09 11:20:14	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-09 11:20:14	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-09 11:20:14	--	Channel #deadbeef-ru: 6 nicks (1 op, 1 voice, 4 normals)
+2014-05-09 11:20:16	--	Mode #deadbeef-ru [+nt]
+2014-05-09 11:20:16	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-09 11:59:18	-->	waker (~waker@62.116.219.97) has joined #deadbeef-ru
+2014-05-09 11:59:19	--	Mode #deadbeef-ru [+o waker] by ChanServ
+2014-05-09 12:54:11	--	irc: disconnected from server
+2014-05-09 12:54:44	-->	govardhan (~dasadasa_@178.234.145.205) has joined #deadbeef-ru
+2014-05-09 12:54:44	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-09 12:54:44	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-09 12:54:44	--	Channel #deadbeef-ru: 7 nicks (2 ops, 1 voice, 4 normals)
+2014-05-09 12:55:24	--	Mode #deadbeef-ru [+nt]
+2014-05-09 12:55:24	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-09 13:35:35	--	irc: disconnected from server
+2014-05-09 13:38:16	-->	govardhan (~dasadasa_@178.234.145.205) has joined #deadbeef-ru
+2014-05-09 13:38:16	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-09 13:38:16	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-09 13:38:16	--	Channel #deadbeef-ru: 7 nicks (2 ops, 1 voice, 4 normals)
+2014-05-09 13:41:42	--	Mode #deadbeef-ru [+nt]
+2014-05-09 13:41:42	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-09 14:19:05	--	irc: disconnected from server
+2014-05-09 14:19:27	-->	govardhan (~dasadasa_@178.234.145.205) has joined #deadbeef-ru
+2014-05-09 14:19:27	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-09 14:19:27	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-09 14:19:27	--	Channel #deadbeef-ru: 7 nicks (2 ops, 1 voice, 4 normals)
+2014-05-09 14:19:43	--	Mode #deadbeef-ru [+nt]
+2014-05-09 14:19:43	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-09 15:39:04	<--	Vampi (zlo@kvirc/user/Vampi) has quit (Quit: KVIrc 4.3.1 Aria http://www.kvirc.net/)
+2014-05-09 15:39:23	-->	Vampi (zlo@kvirc/user/Vampi) has joined #deadbeef-ru
+2014-05-09 15:39:23	--	Mode #deadbeef-ru [+v Vampi] by ChanServ
+2014-05-09 16:05:57	<--	Vampi (zlo@kvirc/user/Vampi) has quit (Read error: Connection reset by peer)
+2014-05-09 16:07:05	-->	Vampi (zlo@kvirc/user/Vampi) has joined #deadbeef-ru
+2014-05-09 16:07:05	--	Mode #deadbeef-ru [+v Vampi] by ChanServ
+2014-05-09 17:12:36	-->	starws (~userid@89-178-28-99.broadband.corbina.ru) has joined #deadbeef-ru
+2014-05-09 20:02:47	<--	waker (~waker@62.116.219.97) has quit (Ping timeout: 252 seconds)
+2014-05-09 21:08:10	-->	waker (~waker@2210ds1-brh.0.fullrate.dk) has joined #deadbeef-ru
+2014-05-09 21:08:11	--	Mode #deadbeef-ru [+o waker] by ChanServ
+2014-05-09 21:55:20	-->	rekcuFniarB (~rekcuFnia@dyn-41-198.fttbee.kis.ru) has joined #deadbeef-ru
+2014-05-09 23:07:01	@waker	кто-нибудь знает, как в навутилусе сделать ярлык запускающий шелл скрипт?
+2014-05-09 23:07:19	@waker	точнее, я-то знаю, что можно перетащить .sh на десктоп средней кнопкой мыши, и выбрать Link
+2014-05-09 23:07:22	Argolics	http://tinyurl.com/l3ae567 и ста лет не прошло
+2014-05-09 23:07:33	@waker	но при запуске он не запускается, а открывается на редактирование
+2014-05-09 23:08:40	@waker	гм.. оказывается, у меня в configure криво --help написан
+2014-05-09 23:08:45	@waker	Argolics, спасиб за ссылку
+2014-05-09 23:10:52	@waker	млять, отличная платформа андроид
+2014-05-09 23:10:58	@waker	есть только mktemp и mkstemp
+2014-05-09 23:11:06	@waker	но нету нормального mkstemps
+2014-05-09 23:11:15	Argolics	там вообще смешно - врубили в http://tinyurl.com/ljt9s9f и потом просили перевырубить/оставить гтк2 етс (см. http://tinyurl.com/ljt9s9f ) но допёрло что можно два гуя оставить только сейчас
+2014-05-09 23:12:29	starws	потому что больше никто так не умеет менять гуи, для многих это новость
+2014-05-09 23:12:53	@waker	Argolics, пакеты не нужны
+2014-05-09 23:13:21	@waker	а пакетчики еще больше не нужны
+2014-05-09 23:13:30	@waker	пусть идут мариуполь захватывать, и под танки бросаться
+2014-05-09 23:14:19	starws	стоп, он же немец, какой мариуполь?
+2014-05-09 23:14:33	Argolics	пусть *все* идут!
+2014-05-09 23:14:35	@waker	+1
+2014-05-09 23:14:45	@waker	особенно немцы
+2014-05-09 23:14:59	@waker	там как раз пьяные украинцы день победы празднуюит
+2014-05-09 23:23:45	@waker	похоже, пора дропать поддержку android 2.3 в ddb, т.к. при установленной опере и fbreader больше ничего на девайс уже не влазит
+2014-05-09 23:24:00	@waker	для отладки приходится все удалять с девайса, а потом обратно ставить
+2014-05-09 23:26:00	 *	starws не включал планшет уже месяц, наверное
+2014-05-09 23:27:38	Argolics	девайс не проще заменить?
+2014-05-09 23:28:18	Argolics	а то всё бы ущемлять владельцев таких же древних телепонов с андроидом 2.3- wait oh shi~
+2014-05-09 23:28:57	@waker	Argolics, у меня есть девайсы на android 4.x
+2014-05-09 23:29:00	@waker	2 шт
+2014-05-09 23:29:30	Argolics	это не в них места так мало, надеюсь
+2014-05-09 23:31:00	starws	https://developer.android.com/about/dashboards/index.html?utm_source=ausdroid.net
+2014-05-09 23:37:29	@waker	Argolics, читай внимательно. места мало в девайса на android2.3
+2014-05-09 23:38:11	@waker	starws, 16% это дохера.
+2014-05-09 23:38:36	starws	продаётся их уже мало, но на руках ещё есть
+2014-05-09 23:40:11	@waker	именно
+2014-05-09 23:40:17	 *	waker не знал, что еще продаются
+2014-05-09 23:43:04	starws	% на девайс уже не влазит  ---- 32 Гб флэша для смартфонов стоят для производителей около 20 баксов, на данный момент. учитывая стоимость устройств, это смешная сумма
+2014-05-09 23:43:21	@waker	starws, апгрейд не предусмотрен
+2014-05-09 23:43:30	@waker	флеша около 128M
+2014-05-09 23:43:36	starws	просто они все жадные барыги, эти производители
+2014-05-09 23:43:45	@waker	весь забит всяким далвик-кешом, и APK файлами говна из cm7.2
+2014-05-09 23:44:08	@waker	темы оформления там всякие, и т.п.
+2014-05-09 23:44:14	starws	хорошо хоть планшеты больше не растут, будет падать цена
+2014-05-09 23:44:29	@waker	удалять боюсь, 1 раз удалил лишнего - 2 вечера убил чтобы восстановить
+2014-05-09 23:44:44	@waker	(инфа по установке cm72 уже плохо ищется в гугле, и многие архивы похерены)
+2014-05-10 00:21:28	--	irc: disconnected from server
+2014-05-10 07:49:46	-->	govardhan (~dasadasa_@178.234.145.205) has joined #deadbeef-ru
+2014-05-10 07:49:46	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-10 07:49:46	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-10 07:49:46	--	Channel #deadbeef-ru: 5 nicks (1 op, 0 voices, 4 normals)
+2014-05-10 07:49:48	--	Mode #deadbeef-ru [+nt]
+2014-05-10 07:49:48	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-10 08:17:56	--	irc: disconnected from server
+2014-05-10 08:18:22	-->	govardhana (~dasadasa_@178.234.140.151) has joined #deadbeef-ru
+2014-05-10 08:18:22	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-10 08:18:22	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-10 08:18:22	--	Channel #deadbeef-ru: 6 nicks (1 op, 0 voices, 5 normals)
+2014-05-10 08:18:38	--	Mode #deadbeef-ru [+nt]
+2014-05-10 08:18:39	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-10 08:21:10	<--	govardhan (~dasadasa_@178.234.145.205) has quit (Ping timeout: 252 seconds)
+2014-05-10 09:58:49	-->	Vampi (zlo@kvirc/user/Vampi) has joined #deadbeef-ru
+2014-05-10 09:58:49	--	Mode #deadbeef-ru [+v Vampi] by ChanServ
+2014-05-10 11:07:20	-->	starws (~userid@89-178-28-99.broadband.corbina.ru) has joined #deadbeef-ru
+2014-05-10 11:36:22	<--	govardhana (~dasadasa_@178.234.140.151) has quit (Ping timeout: 258 seconds)
+2014-05-10 11:36:22	--	irc: disconnected from server
+2014-05-10 11:36:48	-->	gavardhan (~dasadasa_@178.234.140.151) has joined #deadbeef-ru
+2014-05-10 11:36:48	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-10 11:36:48	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-10 11:36:48	--	Channel #deadbeef-ru: 8 nicks (1 op, 1 voice, 6 normals)
+2014-05-10 11:37:04	--	Mode #deadbeef-ru [+nt]
+2014-05-10 11:37:05	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-10 11:45:56	<--	govardhana (~dasadasa_@178.234.140.151) has quit (Ping timeout: 258 seconds)
+2014-05-10 13:36:28	-->	waker (~waker@2210ds1-brh.0.fullrate.dk) has joined #deadbeef-ru
+2014-05-10 13:36:30	--	Mode #deadbeef-ru [+o waker] by ChanServ
+2014-05-10 17:56:22	<--	waker (~waker@2210ds1-brh.0.fullrate.dk) has quit (Remote host closed the connection)
+2014-05-10 19:47:59	--	irc: disconnected from server
+2014-05-10 19:48:23	-->	govardhan (~dasadasa_@178.234.140.151) has joined #deadbeef-ru
+2014-05-10 19:48:23	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-10 19:48:23	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-10 19:48:23	--	Channel #deadbeef-ru: 7 nicks (1 op, 1 voice, 5 normals)
+2014-05-10 19:48:25	--	Mode #deadbeef-ru [+nt]
+2014-05-10 19:48:25	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-10 19:52:58	<--	Argolics (~argo@128-72-39-19.broadband.corbina.ru) has quit (Quit: I Quit)
+2014-05-10 19:54:14	-->	Argolics (~argo@128-72-39-19.broadband.corbina.ru) has joined #deadbeef-ru
+2014-05-10 23:02:22	-->	sakal (~quassel@77.51.227.159) has joined #deadbeef-ru
+2014-05-10 23:59:39	--	irc: disconnected from server
+2014-05-11 08:18:51	-->	govardhan (~dasadasa_@178.234.174.172) has joined #deadbeef-ru
+2014-05-11 08:18:51	--	Topic for #deadbeef-ru is "latest: 0.6.1 | build-robot: http://tinyurl.com/orojfhe | reporting bugz: http://tinyurl.com/2akuqdp | FAQ: http://tinyurl.com/2dovytq | contributing: http://tinyurl.com/btpmnh6"
+2014-05-11 08:18:51	--	Topic set by waker (~waker@62.116.219.97) on Втр, 18 Фев 2014 17:35:50
+2014-05-11 08:18:51	--	Channel #deadbeef-ru: 6 nicks (1 op, 1 voice, 4 normals)
+2014-05-11 08:18:54	--	Mode #deadbeef-ru [+nt]
+2014-05-11 08:18:54	--	Channel created on Сбт, 14 Авг 2010 18:44:48
+2014-05-11 08:23:41	-->	govardhan_ (~fenriz@178.234.174.172) has joined #deadbeef-ru
+2014-05-11 09:12:41	<--	govardhan_ (~fenriz@178.234.174.172) has quit (Quit: Om namo narayanaya)
+2014-05-11 09:28:55	-->	greenvorbisfan (~Miranda@79.99.55.25) has joined #deadbeef-ru
+2014-05-11 09:34:38	--	irc: disconnected from server
